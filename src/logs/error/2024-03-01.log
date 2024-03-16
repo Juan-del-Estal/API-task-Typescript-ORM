@@ -1,0 +1,48 @@
+2024-03-01 18:37:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(13,30): error TS2304: Cannot find name 'index'.
+src/routes/user/user.routes.ts(13,39): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(view: string, options?: object | undefined, callback?: ((err: Error, html: string) => void) | undefined): void', gave the following error.
+    Argument of type 'string' is not assignable to parameter of type 'object'.
+  Overload 2 of 2, '(view: string, callback?: ((err: Error, html: string) => void) | undefined): void', gave the following error.
+    Argument of type 'string' is not assignable to parameter of type '(err: Error, html: string) => void'.
+src/routes/user/user.routes.ts(13,39): error TS1005: ',' expected.
+src/routes/user/user.routes.ts(13,41): error TS1002: Unterminated string literal.
+src/routes/user/user.routes.ts(14,5): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(13,30): error TS2304: Cannot find name 'index'.
+src/routes/user/user.routes.ts(13,39): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(view: string, options?: object | undefined, callback?: ((err: Error, html: string) => void) | undefined): void', gave the following error.
+    Argument of type 'string' is not assignable to parameter of type 'object'.
+  Overload 2 of 2, '(view: string, callback?: ((err: Error, html: string) => void) | undefined): void', gave the following error.
+    Argument of type 'string' is not assignable to parameter of type '(err: Error, html: string) => void'.
+src/routes/user/user.routes.ts(13,39): error TS1005: ',' expected.
+src/routes/user/user.routes.ts(13,41): error TS1002: Unterminated string literal.
+src/routes/user/user.routes.ts(14,5): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-23564777078748.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-23564777078748.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-23564777078748.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-01 18:38:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(14,5): error TS1003: Identifier expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(14,5): error TS1003: Identifier expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-23564777078748.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-23564777078748.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-23564777078748.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)

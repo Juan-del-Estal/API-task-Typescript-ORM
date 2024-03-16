@@ -1,0 +1,538 @@
+2024-03-15 11:27:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/update.user.service.ts(16,9): error TS2304: Cannot find name 'password'.
+src/user/services/update.user.service.ts(17,45): error TS2304: Cannot find name 'password'.
+src/user/services/update.user.service.ts(23,22): error TS2304: Cannot find name 'password'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/update.user.service.ts(16,9): error TS2304: Cannot find name 'password'.
+src/user/services/update.user.service.ts(17,45): error TS2304: Cannot find name 'password'.
+src/user/services/update.user.service.ts(23,22): error TS2304: Cannot find name 'password'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\update.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7213572532352495.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7213572532352495.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7213572532352495.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 11:27:55 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/update.user.service.ts(20,22): error TS2304: Cannot find name 'password'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/update.user.service.ts(20,22): error TS2304: Cannot find name 'password'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\update.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7213572532352495.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7213572532352495.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7213572532352495.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 11:59:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,13): error TS2551: Property 'rle' does not exist on type 'UserEntity'. Did you mean 'role'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,13): error TS2551: Property 'rle' does not exist on type 'UserEntity'. Did you mean 'role'?
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:00:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(28,8): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(28,8): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:01:19 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,34): error TS7030: Not all code paths return a value.
+src/user/services/create.user.service.ts(51,1): error TS1005: '}' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,34): error TS7030: Not all code paths return a value.
+src/user/services/create.user.service.ts(51,1): error TS1005: '}' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:01:24 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:01:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:01:46 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+src/user/services/create.user.service.ts(29,26): error TS2552: Cannot find name 'message'. Did you mean 'onmessage'?
+src/user/services/create.user.service.ts(29,33): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+src/user/services/create.user.service.ts(29,26): error TS2552: Cannot find name 'message'. Did you mean 'onmessage'?
+src/user/services/create.user.service.ts(29,33): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:01:52 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+src/user/services/create.user.service.ts(29,35): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+src/user/services/create.user.service.ts(29,35): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:01:57 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,5): error TS2304: Cannot find name 'res'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:02:06 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,5): error TS2304: Cannot find name 'res'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,5): error TS2304: Cannot find name 'res'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:02:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,16): error TS2304: Cannot find name 'res'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,16): error TS2304: Cannot find name 'res'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:02:27 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,16): error TS2304: Cannot find name 'res'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,16): error TS2304: Cannot find name 'res'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:02:37 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,16): error TS2304: Cannot find name 'res'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(29,16): error TS2304: Cannot find name 'res'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:02:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,16): error TS2304: Cannot find name 'res'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,16): error TS2304: Cannot find name 'res'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:02:53 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS7006: Parameter 'res' implicitly has an 'any' type.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS7006: Parameter 'res' implicitly has an 'any' type.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:03:06 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,20): error TS2339: Property 'status' does not exist on type 'Request'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(30,20): error TS2339: Property 'status' does not exist on type 'Request'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:03:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(31,20): error TS2339: Property 'status' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(31,20): error TS2339: Property 'status' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 12:04:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,62): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,62): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9275260888112205.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:27:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(19,17): error TS2555: Expected at least 1 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(19,17): error TS2555: Expected at least 1 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:34:17 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(12,44): error TS2339: Property 'comparePassword' does not exist on type 'UserEntity'.
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(12,44): error TS2339: Property 'comparePassword' does not exist on type 'UserEntity'.
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:35:42 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:36:14 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:40:37 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:42:07 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:42:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(2,1): error TS6133: 'LocalStrategy' is declared but its value is never read.
+src/auth/passport.local.ts(3,1): error TS6133: 'bcrypt' is declared but its value is never read.
+src/auth/passport.local.ts(7,1): error TS1141: String literal expected.
+src/auth/passport.local.ts(25,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(30,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+src/auth/passport.local.ts(7,1): error TS1005: 'from' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(2,1): error TS6133: 'LocalStrategy' is declared but its value is never read.
+src/auth/passport.local.ts(3,1): error TS6133: 'bcrypt' is declared but its value is never read.
+src/auth/passport.local.ts(7,1): error TS1141: String literal expected.
+src/auth/passport.local.ts(25,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(30,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+src/auth/passport.local.ts(7,1): error TS1005: 'from' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:42:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:42:56 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(2,37): error TS2305: Module '"passport-local"' has no exported member 'DoneFunction'.
+src/auth/passport.local.ts(2,37): error TS6133: 'DoneFunction' is declared but its value is never read.
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(2,37): error TS2305: Module '"passport-local"' has no exported member 'DoneFunction'.
+src/auth/passport.local.ts(2,37): error TS6133: 'DoneFunction' is declared but its value is never read.
+src/auth/passport.local.ts(24,5): error TS2349: This expression is not callable.
+  Type 'User' has no call signatures.
+src/auth/passport.local.ts(29,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-15 14:43:49 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(2,10): error TS2305: Module '"passport-local"' has no exported member 'DoneFunction'.
+src/auth/passport.local.ts(10,1): error TS2304: Cannot find name 'passport'.
+src/auth/passport.local.ts(27,1): error TS2304: Cannot find name 'passport'.
+src/auth/passport.local.ts(27,35): error TS7006: Parameter 'user' implicitly has an 'any' type.
+src/auth/passport.local.ts(27,41): error TS7006: Parameter 'done' implicitly has an 'any' type.
+src/auth/passport.local.ts(31,1): error TS2304: Cannot find name 'passport'.
+src/auth/passport.local.ts(31,45): error TS7006: Parameter 'done' implicitly has an 'any' type.
+src/auth/passport.local.ts(33,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+src/auth/passport.local.ts(40,16): error TS2304: Cannot find name 'passport'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/passport.local.ts(2,10): error TS2305: Module '"passport-local"' has no exported member 'DoneFunction'.
+src/auth/passport.local.ts(10,1): error TS2304: Cannot find name 'passport'.
+src/auth/passport.local.ts(27,1): error TS2304: Cannot find name 'passport'.
+src/auth/passport.local.ts(27,35): error TS7006: Parameter 'user' implicitly has an 'any' type.
+src/auth/passport.local.ts(27,41): error TS7006: Parameter 'done' implicitly has an 'any' type.
+src/auth/passport.local.ts(31,1): error TS2304: Cannot find name 'passport'.
+src/auth/passport.local.ts(31,45): error TS7006: Parameter 'done' implicitly has an 'any' type.
+src/auth/passport.local.ts(33,47): error TS2559: Type 'string' has no properties in common with type 'FindOneOptions<UserEntity>'.
+src/auth/passport.local.ts(40,16): error TS2304: Cannot find name 'passport'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\auth\passport.local.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9844756630557789.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)

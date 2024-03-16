@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\.66d7a14d2d82004c295631b502d1c8da689fa868-audit.json",
+    "files": [
+        {
+            "date": 1709248331077,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-02-29.log",
+            "hash": "b650980b454950058f61be24e018feb1d1848f49d3b8029fd0e411226e62c4b3"
+        },
+        {
+            "date": 1709328893009,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-01.log",
+            "hash": "5f461df1b665a8cf4cc4297755e26f8dc9c20e46fc8b6cf05974719408288a2d"
+        },
+        {
+            "date": 1709408153393,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-02.log",
+            "hash": "bbcc338530820578f4cd3e23349bc016b6f393e4d44d11233c57aaaaa150a675"
+        },
+        {
+            "date": 1709836388028,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-07.log",
+            "hash": "ec9e99dae807c158af4b5a19389f9ae3e749a70a78abcd0ccb66e7759649ad65"
+        },
+        {
+            "date": 1709908952417,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-08.log",
+            "hash": "9d3235f32d25c2968054e17cedda8cc80a832a2c3f854d9bc8f9ec7ff7a87d86"
+        },
+        {
+            "date": 1709994645367,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-09.log",
+            "hash": "c242927698c1eb3cc7b6321bc437d5612fb9816413eef5fde9dc7e1a7bcdfd01"
+        },
+        {
+            "date": 1710111777097,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-10.log",
+            "hash": "61b94c9bbbf7920aa0f1389f8d2b90d90e1611b92326f5d2af5be578940d74a0"
+        },
+        {
+            "date": 1710169128955,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-11.log",
+            "hash": "c13d638ad38e7ce5a2491ffdecdc21ed4f7b556a761394ef2a26309843dbdf64"
+        },
+        {
+            "date": 1710281754267,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-12.log",
+            "hash": "00c0c09fd984574d6b44be23c86e207d456a4d90052afe048e6c6197eaa272bd"
+        },
+        {
+            "date": 1710368381788,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-13.log",
+            "hash": "6a9e38d39c145c1afb765806a1cf79c9dba48cca1655df4548b182e45359f10f"
+        },
+        {
+            "date": 1710436776974,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-14.log",
+            "hash": "c954a5b1ceb3f8cc585cf2d1c2778e7ad475d0dec3f9cb80af446e96e8ad2ae0"
+        },
+        {
+            "date": 1710512665394,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do List with ts\\src\\logs\\error\\2024-03-15.log",
+            "hash": "2b5fb8f6565a77fb08b047f8b2f81f9e6ac25aba038fdde9f35b38038c8d1e49"
+        }
+    ],
+    "hashType": "sha256"
+}

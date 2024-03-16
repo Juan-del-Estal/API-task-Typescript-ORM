@@ -1,0 +1,1128 @@
+2024-03-14 14:55:48 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(2,1): error TS6133: 'AppDataSource' is declared but its value is never read.
+src/user/services/delete.user.service.ts(14,9): error TS7005: Variable 'await' implicitly has an 'any' type.
+src/user/services/delete.user.service.ts(14,15): error TS7005: Variable 'AppDataSource' implicitly has an 'any' type.
+src/user/services/delete.user.service.ts(15,6): error TS2304: Cannot find name 'createQueryBuilder'.
+src/user/services/delete.user.service.ts(18,12): error TS2304: Cannot find name 'whereCondition'.
+src/user/services/delete.user.service.ts(14,15): error TS1005: ',' expected.
+src/user/services/delete.user.service.ts(15,5): error TS1128: Declaration or statement expected.
+src/user/services/delete.user.service.ts(20,1): error TS1128: Declaration or statement expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(2,1): error TS6133: 'AppDataSource' is declared but its value is never read.
+src/user/services/delete.user.service.ts(14,9): error TS7005: Variable 'await' implicitly has an 'any' type.
+src/user/services/delete.user.service.ts(14,15): error TS7005: Variable 'AppDataSource' implicitly has an 'any' type.
+src/user/services/delete.user.service.ts(15,6): error TS2304: Cannot find name 'createQueryBuilder'.
+src/user/services/delete.user.service.ts(18,12): error TS2304: Cannot find name 'whereCondition'.
+src/user/services/delete.user.service.ts(14,15): error TS1005: ',' expected.
+src/user/services/delete.user.service.ts(15,5): error TS1128: Declaration or statement expected.
+src/user/services/delete.user.service.ts(20,1): error TS1128: Declaration or statement expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 14:55:55 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(14,9): error TS6133: 'userSearch' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(14,9): error TS6133: 'userSearch' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 14:56:03 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(22,1): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(22,1): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 14:56:10 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(5,34): error TS7030: Not all code paths return a value.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(5,34): error TS7030: Not all code paths return a value.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 14:56:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(5,34): error TS7030: Not all code paths return a value.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(5,34): error TS7030: Not all code paths return a value.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 14:56:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(21,29): error TS2351: This expression is not constructable.
+  Type 'Error' has no construct signatures.
+src/user/services/delete.user.service.ts(21,34): error TS2345: Argument of type 'TemplateStringsArray' is not assignable to parameter of type 'string'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(21,29): error TS2351: This expression is not constructable.
+  Type 'Error' has no construct signatures.
+src/user/services/delete.user.service.ts(21,34): error TS2345: Argument of type 'TemplateStringsArray' is not assignable to parameter of type 'string'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 14:56:39 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(22,1): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(22,1): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7261208856227488.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:41:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(12,34): error TS2554: Expected 1 arguments, but got 3.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(12,34): error TS2554: Expected 1 arguments, but got 3.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:42:45 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(6,68): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(6,68): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:42:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(6,68): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(6,68): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:42:59 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(22,30): error TS2345: Argument of type 'string' is not assignable to parameter of type 'number'.
+src/user/services/delete.user.service.ts(23,1): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(22,30): error TS2345: Argument of type 'string' is not assignable to parameter of type 'number'.
+src/user/services/delete.user.service.ts(23,1): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:43:07 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:43:12 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:43:22 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(22,40): error TS2552: Cannot find name 'message'. Did you mean 'onmessage'?
+src/user/services/delete.user.service.ts(22,48): error TS2349: This expression is not callable.
+  Type '{}' has no call signatures.
+src/user/services/delete.user.service.ts(22,48): error TS2554: Expected 0-1 arguments, but got 2.
+src/user/services/delete.user.service.ts(22,47): error TS1005: ',' expected.
+src/user/services/delete.user.service.ts(22,49): error TS1136: Property assignment expected.
+src/user/services/delete.user.service.ts(22,71): error TS1005: ';' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(22,40): error TS2552: Cannot find name 'message'. Did you mean 'onmessage'?
+src/user/services/delete.user.service.ts(22,48): error TS2349: This expression is not callable.
+  Type '{}' has no call signatures.
+src/user/services/delete.user.service.ts(22,48): error TS2554: Expected 0-1 arguments, but got 2.
+src/user/services/delete.user.service.ts(22,47): error TS1005: ',' expected.
+src/user/services/delete.user.service.ts(22,49): error TS1136: Property assignment expected.
+src/user/services/delete.user.service.ts(22,71): error TS1005: ';' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:43:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(22,70): error TS1005: ',' expected.
+src/user/services/delete.user.service.ts(22,71): error TS1005: ';' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+src/user/services/delete.user.service.ts(22,70): error TS1005: ',' expected.
+src/user/services/delete.user.service.ts(22,71): error TS1005: ';' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:43:36 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/delete.user.service.ts(4,10): error TS6133: 'Request' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\delete.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:47:08 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(1,47): error TS2304: Cannot find name 'DeleteUserInterface'.
+src/user/controllers/delete.user.controllers.ts(18,28): error TS2304: Cannot find name 'AppDataSource'.
+src/user/controllers/delete.user.controllers.ts(21,11): error TS2304: Cannot find name 'UserEntity'.
+src/user/controllers/delete.user.controllers.ts(27,9): error TS2349: This expression is not callable.
+  Type 'Number' has no call signatures.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(1,47): error TS2304: Cannot find name 'DeleteUserInterface'.
+src/user/controllers/delete.user.controllers.ts(18,28): error TS2304: Cannot find name 'AppDataSource'.
+src/user/controllers/delete.user.controllers.ts(21,11): error TS2304: Cannot find name 'UserEntity'.
+src/user/controllers/delete.user.controllers.ts(27,9): error TS2349: This expression is not callable.
+  Type 'Number' has no call signatures.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:47:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(4,47): error TS2304: Cannot find name 'DeleteUserInterface'.
+src/user/controllers/delete.user.controllers.ts(21,28): error TS2304: Cannot find name 'AppDataSource'.
+src/user/controllers/delete.user.controllers.ts(24,11): error TS2304: Cannot find name 'UserEntity'.
+src/user/controllers/delete.user.controllers.ts(30,9): error TS2349: This expression is not callable.
+  Type 'Number' has no call signatures.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(4,47): error TS2304: Cannot find name 'DeleteUserInterface'.
+src/user/controllers/delete.user.controllers.ts(21,28): error TS2304: Cannot find name 'AppDataSource'.
+src/user/controllers/delete.user.controllers.ts(24,11): error TS2304: Cannot find name 'UserEntity'.
+src/user/controllers/delete.user.controllers.ts(30,9): error TS2349: This expression is not callable.
+  Type 'Number' has no call signatures.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:47:26 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(4,47): error TS2304: Cannot find name 'DeleteUserInterface'.
+src/user/controllers/delete.user.controllers.ts(21,28): error TS2304: Cannot find name 'AppDataSource'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(4,47): error TS2304: Cannot find name 'DeleteUserInterface'.
+src/user/controllers/delete.user.controllers.ts(21,28): error TS2304: Cannot find name 'AppDataSource'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:47:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(22,28): error TS2304: Cannot find name 'AppDataSource'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(22,28): error TS2304: Cannot find name 'AppDataSource'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:47:42 error: uncaughtException: Route.delete() requires a callback function but got a [object Undefined]
+Error: Route.delete() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as delete] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as delete] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initUserRoutes (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:19:23)
+    at new UserRoute (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:11:10)
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\index.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8253388105322155.js:114:20)
+2024-03-14 15:49:36 error: uncaughtException: Cannot set headers after they are sent to the client
+Error: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:652:11)
+    at ServerResponse.header (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\express\lib\response.js:794:10)
+    at ServerResponse.send (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\express\lib\response.js:174:12)
+    at ServerResponse.json (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\express\lib\response.js:278:15)
+    at C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:16:28
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-03-14 15:54:33 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(15,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(15,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:54:39 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(15,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(16,8): error TS2304: Cannot find name 'newUseconsole'.
+src/user/services/create.user.service.ts(16,48): error TS1313: The body of an 'if' statement cannot be the empty statement.
+src/user/services/create.user.service.ts(16,48): error TS1005: ')' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(15,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(16,8): error TS2304: Cannot find name 'newUseconsole'.
+src/user/services/create.user.service.ts(16,48): error TS1313: The body of an 'if' statement cannot be the empty statement.
+src/user/services/create.user.service.ts(16,48): error TS1005: ')' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:54:45 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(15,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(15,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:54:54 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(15,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+src/user/services/create.user.service.ts(15,11): error TS2451: Cannot redeclare block-scoped variable 'newUser'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:55:12 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(2,1): error TS6133: 'AppDataSource' is declared but its value is never read.
+src/user/services/create.user.service.ts(15,14): error TS7005: Variable 'await' implicitly has an 'any' type.
+src/user/services/create.user.service.ts(15,20): error TS7005: Variable 'AppDataSource' implicitly has an 'any' type.
+src/user/services/create.user.service.ts(15,34): error TS7005: Variable 'manager' implicitly has an 'any' type.
+src/user/services/create.user.service.ts(15,42): error TS7005: Variable 'save' implicitly has an 'any' type.
+src/user/services/create.user.service.ts(15,12): error TS1134: Variable declaration expected.
+src/user/services/create.user.service.ts(15,20): error TS1005: ',' expected.
+src/user/services/create.user.service.ts(15,33): error TS1005: ',' expected.
+src/user/services/create.user.service.ts(15,41): error TS1005: ',' expected.
+src/user/services/create.user.service.ts(15,46): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(2,1): error TS6133: 'AppDataSource' is declared but its value is never read.
+src/user/services/create.user.service.ts(15,14): error TS7005: Variable 'await' implicitly has an 'any' type.
+src/user/services/create.user.service.ts(15,20): error TS7005: Variable 'AppDataSource' implicitly has an 'any' type.
+src/user/services/create.user.service.ts(15,34): error TS7005: Variable 'manager' implicitly has an 'any' type.
+src/user/services/create.user.service.ts(15,42): error TS7005: Variable 'save' implicitly has an 'any' type.
+src/user/services/create.user.service.ts(15,12): error TS1134: Variable declaration expected.
+src/user/services/create.user.service.ts(15,20): error TS1005: ',' expected.
+src/user/services/create.user.service.ts(15,33): error TS1005: ',' expected.
+src/user/services/create.user.service.ts(15,41): error TS1005: ',' expected.
+src/user/services/create.user.service.ts(15,46): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:55:19 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(15,11): error TS6133: 'userData' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(15,11): error TS6133: 'userData' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:55:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(17,1): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(17,1): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:55:37 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(7,62): error TS6133: 'res' is declared but its value is never read.
+src/user/services/create.user.service.ts(17,1): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(7,62): error TS6133: 'res' is declared but its value is never read.
+src/user/services/create.user.service.ts(17,1): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:55:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+src/user/services/create.user.service.ts(18,1): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+src/user/services/create.user.service.ts(18,1): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:56:06 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:56:10 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:56:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:56:41 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:56:46 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:56:56 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+src/user/services/create.user.service.ts(20,13): error TS2339: Property 'og' does not exist on type 'Console'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+src/user/services/create.user.service.ts(20,13): error TS2339: Property 'og' does not exist on type 'Console'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:57:05 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 15:57:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(5,1): error TS6133: 'Response' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(5,1): error TS6133: 'Response' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:00:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,10): error TS2300: Duplicate identifier 'createUserService'.
+src/user/controllers/create.user.controller.ts(2,10): error TS2300: Duplicate identifier 'Request'.
+src/user/controllers/create.user.controller.ts(2,19): error TS2300: Duplicate identifier 'Response'.
+src/user/controllers/create.user.controller.ts(4,14): error TS2451: Cannot redeclare block-scoped variable 'createUserController'.
+src/user/controllers/create.user.controller.ts(18,10): error TS2300: Duplicate identifier 'createUserService'.
+src/user/controllers/create.user.controller.ts(19,10): error TS2300: Duplicate identifier 'Request'.
+src/user/controllers/create.user.controller.ts(19,19): error TS2300: Duplicate identifier 'Response'.
+src/user/controllers/create.user.controller.ts(21,14): error TS2451: Cannot redeclare block-scoped variable 'createUserController'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,10): error TS2300: Duplicate identifier 'createUserService'.
+src/user/controllers/create.user.controller.ts(2,10): error TS2300: Duplicate identifier 'Request'.
+src/user/controllers/create.user.controller.ts(2,19): error TS2300: Duplicate identifier 'Response'.
+src/user/controllers/create.user.controller.ts(4,14): error TS2451: Cannot redeclare block-scoped variable 'createUserController'.
+src/user/controllers/create.user.controller.ts(18,10): error TS2300: Duplicate identifier 'createUserService'.
+src/user/controllers/create.user.controller.ts(19,10): error TS2300: Duplicate identifier 'Request'.
+src/user/controllers/create.user.controller.ts(19,19): error TS2300: Duplicate identifier 'Response'.
+src/user/controllers/create.user.controller.ts(21,14): error TS2451: Cannot redeclare block-scoped variable 'createUserController'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:10:30 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(12,26): error TS2554: Expected 2 arguments, but got 1.
+src/user/controllers/delete.user.controllers.ts(13,9): error TS2367: This comparison appears to be unintentional because the types 'void' and 'number' have no overlap.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(12,26): error TS2554: Expected 2 arguments, but got 1.
+src/user/controllers/delete.user.controllers.ts(13,9): error TS2367: This comparison appears to be unintentional because the types 'void' and 'number' have no overlap.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-547473581603025.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:42:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(11,11): error TS6133: 'existingUserName' is declared but its value is never read.
+src/user/services/create.user.service.ts(12,9): error TS2552: Cannot find name 'existingUser'. Did you mean 'existingUserName'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(11,11): error TS6133: 'existingUserName' is declared but its value is never read.
+src/user/services/create.user.service.ts(12,9): error TS2552: Cannot find name 'existingUser'. Did you mean 'existingUserName'?
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:42:16 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(19,5): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(19,5): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:42:23 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(17,11): error TS6133: 'existingEmail' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(17,11): error TS6133: 'existingEmail' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:42:33 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(17,86): error TS18004: No value exists in scope for the shorthand property 'email'. Either declare one or provide an initializer.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(17,86): error TS18004: No value exists in scope for the shorthand property 'email'. Either declare one or provide an initializer.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:47:48 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(7,8): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(7,8): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:48:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(7,26): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(7,26): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:49:27 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(9,8): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(9,26): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,10): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,28): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,43): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(9,8): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(9,26): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,10): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,28): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,43): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:49:40 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(6,12): error TS6133: 'username' is declared but its value is never read.
+src/user/controllers/delete.user.controllers.ts(6,22): error TS6133: 'email' is declared but its value is never read.
+src/user/controllers/delete.user.controllers.ts(6,39): error TS6133: 'confirmPw' is declared but its value is never read.
+src/user/controllers/delete.user.controllers.ts(9,21): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,10): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,28): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,43): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(6,12): error TS6133: 'username' is declared but its value is never read.
+src/user/controllers/delete.user.controllers.ts(6,22): error TS6133: 'email' is declared but its value is never read.
+src/user/controllers/delete.user.controllers.ts(6,39): error TS6133: 'confirmPw' is declared but its value is never read.
+src/user/controllers/delete.user.controllers.ts(9,21): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,10): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,28): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(12,43): error TS2304: Cannot find name 'user'.
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:49:53 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:50:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:50:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(15,44): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(15,44): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:50:27 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(15,44): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(15,44): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:50:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(15,44): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(15,44): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:50:59 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(16,44): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:51:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(7,11): error TS6133: 'user' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(7,11): error TS6133: 'user' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7602760933433308.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 17:52:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(7,11): error TS6133: 'user' is declared but its value is never read.
+src/user/controllers/delete.user.controllers.ts(7,22): error TS2551: Property 'bod' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'. Did you mean 'body'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/delete.user.controllers.ts(7,11): error TS6133: 'user' is declared but its value is never read.
+src/user/controllers/delete.user.controllers.ts(7,22): error TS2551: Property 'bod' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'. Did you mean 'body'?
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\user\controllers\delete.user.controllers.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 18:33:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(20,17): error TS2339: Property 'up' does not exist on type 'Router'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(20,17): error TS2339: Property 'up' does not exist on type 'Router'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 18:33:23 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(20,24): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(20,24): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 18:33:39 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(20,48): error TS2304: Cannot find name 'upd'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(20,48): error TS2304: Cannot find name 'upd'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 18:33:47 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(4,1): error TS6133: 'updatePasswordService' is declared but its value is never read.
+src/routes/user/user.routes.ts(21,48): error TS2304: Cannot find name 'updatePasswordController'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(4,1): error TS6133: 'updatePasswordService' is declared but its value is never read.
+src/routes/user/user.routes.ts(21,48): error TS2304: Cannot find name 'updatePasswordController'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-14 18:34:16 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(4,1): error TS6133: 'updatePasswordService' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(4,1): error TS6133: 'updatePasswordService' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-39648107852052483.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)

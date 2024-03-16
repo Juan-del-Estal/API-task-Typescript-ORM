@@ -1,0 +1,76 @@
+2024-03-13 20:15:30 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(18,3): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(18,23): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(18,3): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+src/routes/user/user.routes.ts(19,1): error TS1128: Declaration or statement expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(18,3): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(18,23): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(18,3): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+src/routes/user/user.routes.ts(19,1): error TS1128: Declaration or statement expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-13 20:16:16 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(18,36): error TS1002: Unterminated string literal.
+src/routes/user/user.routes.ts(19,3): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(18,36): error TS1002: Unterminated string literal.
+src/routes/user/user.routes.ts(19,3): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-13 20:16:32 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(18,55): error TS6133: 'res' is declared but its value is never read.
+src/routes/user/user.routes.ts(18,68): error TS1005: '=>' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(18,55): error TS6133: 'res' is declared but its value is never read.
+src/routes/user/user.routes.ts(18,68): error TS1005: '=>' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-13 20:16:37 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(18,55): error TS6133: 'res' is declared but its value is never read.
+src/routes/user/user.routes.ts(18,68): error TS1005: '=>' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(18,55): error TS6133: 'res' is declared but its value is never read.
+src/routes/user/user.routes.ts(18,68): error TS1005: '=>' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-913821466340367.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do List with ts\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
