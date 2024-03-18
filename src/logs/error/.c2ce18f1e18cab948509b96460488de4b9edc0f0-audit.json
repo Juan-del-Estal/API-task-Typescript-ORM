@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do-List\\src\\logs\\error\\.c2ce18f1e18cab948509b96460488de4b9edc0f0-audit.json",
+    "files": [
+        {
+            "date": 1710798016933,
+            "name": "C:\\Users\\juand\\OneDrive\\Escritorio\\Projects\\Personal-projects\\To-do-List\\src\\logs\\error\\2024-03-18.log",
+            "hash": "a52bdb81703c8fb9f28ad6f90f80b24f01d509ba20c51a9b97c6bb6acfae45db"
+        }
+    ],
+    "hashType": "sha256"
+}

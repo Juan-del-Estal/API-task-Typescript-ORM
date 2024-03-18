@@ -1,0 +1,204 @@
+2024-03-18 19:39:32 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,3): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(strategy: string | Strategy | string[], callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Object literal may only specify known properties, and 'failureRedirect' does not exist in type 'AuthenticateCallback | ((...args: any[]) => any)'.
+  Overload 2 of 2, '(strategy: string | Strategy | string[], options: AuthenticateOptions, callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Type '() => any' is not assignable to type 'string'.
+src/user/controllers/login.controller.ts(6,19): error TS1005: '{' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,3): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(strategy: string | Strategy | string[], callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Object literal may only specify known properties, and 'failureRedirect' does not exist in type 'AuthenticateCallback | ((...args: any[]) => any)'.
+  Overload 2 of 2, '(strategy: string | Strategy | string[], options: AuthenticateOptions, callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Type '() => any' is not assignable to type 'string'.
+src/user/controllers/login.controller.ts(6,19): error TS1005: '{' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:39:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,3): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(strategy: string | Strategy | string[], callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Object literal may only specify known properties, and 'failureRedirect' does not exist in type 'AuthenticateCallback | ((...args: any[]) => any)'.
+  Overload 2 of 2, '(strategy: string | Strategy | string[], options: AuthenticateOptions, callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Type '(: any) => any' is not assignable to type 'string'.
+src/user/controllers/login.controller.ts(6,19): error TS7006: Parameter '(Missing)' implicitly has an 'any' type.
+src/user/controllers/login.controller.ts(6,19): error TS1003: Identifier expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,3): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(strategy: string | Strategy | string[], callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Object literal may only specify known properties, and 'failureRedirect' does not exist in type 'AuthenticateCallback | ((...args: any[]) => any)'.
+  Overload 2 of 2, '(strategy: string | Strategy | string[], options: AuthenticateOptions, callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Type '(: any) => any' is not assignable to type 'string'.
+src/user/controllers/login.controller.ts(6,19): error TS7006: Parameter '(Missing)' implicitly has an 'any' type.
+src/user/controllers/login.controller.ts(6,19): error TS1003: Identifier expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:40:01 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,3): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(strategy: string | Strategy | string[], callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Object literal may only specify known properties, and 'fa' does not exist in type 'AuthenticateCallback | ((...args: any[]) => any)'.
+  Overload 2 of 2, '(strategy: string | Strategy | string[], options: AuthenticateOptions, callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Object literal may only specify known properties, and 'fa' does not exist in type 'AuthenticateOptions'.
+src/user/controllers/login.controller.ts(6,3): error TS18004: No value exists in scope for the shorthand property 'fa'. Either declare one or provide an initializer.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,3): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(strategy: string | Strategy | string[], callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Object literal may only specify known properties, and 'fa' does not exist in type 'AuthenticateCallback | ((...args: any[]) => any)'.
+  Overload 2 of 2, '(strategy: string | Strategy | string[], options: AuthenticateOptions, callback?: AuthenticateCallback | ((...args: any[]) => any) | undefined): any', gave the following error.
+    Object literal may only specify known properties, and 'fa' does not exist in type 'AuthenticateOptions'.
+src/user/controllers/login.controller.ts(6,3): error TS18004: No value exists in scope for the shorthand property 'fa'. Either declare one or provide an initializer.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:40:07 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,3): error TS18004: No value exists in scope for the shorthand property 'failureRedirect'. Either declare one or provide an initializer.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,3): error TS18004: No value exists in scope for the shorthand property 'failureRedirect'. Either declare one or provide an initializer.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:40:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,28): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,28): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:40:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,18): error TS1312: Did you mean to use a ':'? An '=' can only follow a property name when the containing object literal is part of a destructuring pattern.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,18): error TS1312: Did you mean to use a ':'? An '=' can only follow a property name when the containing object literal is part of a destructuring pattern.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:40:28 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,29): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(6,29): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:42:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(9,63): error TS6133: 'next' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(9,63): error TS6133: 'next' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:46:32 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initUserRoutes (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:19:17)
+    at new UserRoute (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:12:10)
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\index.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+2024-03-18 19:46:37 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(19,67): error TS2304: Cannot find name 'errorHandler'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(19,67): error TS2304: Cannot find name 'errorHandler'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-18 19:58:11 error: uncaughtException: Cannot find module './routes/user/user.routes'
+Require stack:
+- C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\index.ts
+Error: Cannot find module './routes/user/user.routes'
+Require stack:
+- C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\index.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\index.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7344638424764018.js:114:20)

@@ -8,7 +8,7 @@ import { v4 as uuidv4 } from 'uuid';
 import cookieParser from 'cookie-parser';
 import corsConfig from './config/cors.config';
 import cors from 'cors';
-import passport from 'passport';
+import passport from './auth/controllers/auth.controller'
 import { logger } from './utils/logger';
 import { Routes } from './routes/interfaces/route.interface';
 import { DataSource } from 'typeorm';

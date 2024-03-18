@@ -30,4 +30,7 @@ export class UserEntity extends BaseEntity {
   @Column({ type: "enum", enum: RoleType, nullable: false })
   role!: RoleType;
 
-};
+  static async findById(id: string): Promise<UserEntity | null> {
+    return await this.findOne({ where: { id } });
+  }
+}

@@ -7,13 +7,13 @@ html(lang="en")
     script(src='index.js')
     title Welcome
   body
-    form(action='#' method='POST', id='login-form')
+    form(action='api/login-user' method='POST', id='login-form')
       .mb-3
         label(for='exampleInputEmail1', class='form-label') Email address
-        input(type='email', class='form-control', id='exampleInputEmail1', aria-describedby='emailHelp')
+        input(type='email', name='email', class='form-control', id='exampleInputEmail1', aria-describedby='emailHelp')
       .mb-3
         label(for='exampleInputPassword1', class='form-label') Password
-        input(type='password', class='form-control', id='exampleInputPassword1')
+        input(type='password', name='password', class='form-control', id='exampleInputPassword1')
       button(type='submit', class='btn btn-primary') Submit
     
     a(href='#', class='hide-button-form') Don't have an account? Sign Up.
