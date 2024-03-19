@@ -14,3 +14,441 @@ src/routes/user/user.routes.ts(21,17): error TS2555: Expected at least 1 argumen
     at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
     at Module.load (node:internal/modules/cjs/loader:1207:32)
     at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:05:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,17): error TS2555: Expected at least 1 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,17): error TS2555: Expected at least 1 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:05:42 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(1,1): error TS6133: 'passport' is declared but its value is never read.
+src/routes/user/user.routes.ts(3,1): error TS6133: 'createUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(4,1): error TS6133: 'deleteUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(5,1): error TS6133: 'updatePasswordController' is declared but its value is never read.
+src/routes/user/user.routes.ts(6,1): error TS6133: 'loginController' is declared but its value is never read.
+src/routes/user/user.routes.ts(24,30): error TS2663: Cannot find name 'path'. Did you mean the instance member 'this.path'?
+src/routes/user/user.routes.ts(25,23): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/routes/user/user.routes.ts(25,25): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(25,35): error TS2304: Cannot find name 'login'.
+src/routes/user/user.routes.ts(25,41): error TS2304: Cannot find name 'user'.
+src/routes/user/user.routes.ts(26,23): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/routes/user/user.routes.ts(26,25): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(26,35): error TS2304: Cannot find name 'create'.
+src/routes/user/user.routes.ts(26,42): error TS2304: Cannot find name 'user'.
+src/routes/user/user.routes.ts(27,25): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/routes/user/user.routes.ts(27,27): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(27,43): error TS2703: The operand of a 'delete' operator must be a property reference.
+src/routes/user/user.routes.ts(27,44): error TS2304: Cannot find name 'user'.
+src/routes/user/user.routes.ts(28,22): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/routes/user/user.routes.ts(28,24): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(28,34): error TS2552: Cannot find name 'update'. Did you mean 'Date'?
+src/routes/user/user.routes.ts(28,41): error TS2304: Cannot find name 'user'.
+src/routes/user/user.routes.ts(24,29): error TS1127: Invalid character.
+src/routes/user/user.routes.ts(24,34): error TS1005: ',' expected.
+src/routes/user/user.routes.ts(24,35): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+src/routes/user/user.routes.ts(25,23): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(26,23): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(27,25): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(28,22): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(30,4): error TS1160: Unterminated template literal.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(1,1): error TS6133: 'passport' is declared but its value is never read.
+src/routes/user/user.routes.ts(3,1): error TS6133: 'createUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(4,1): error TS6133: 'deleteUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(5,1): error TS6133: 'updatePasswordController' is declared but its value is never read.
+src/routes/user/user.routes.ts(6,1): error TS6133: 'loginController' is declared but its value is never read.
+src/routes/user/user.routes.ts(24,30): error TS2663: Cannot find name 'path'. Did you mean the instance member 'this.path'?
+src/routes/user/user.routes.ts(25,23): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/routes/user/user.routes.ts(25,25): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(25,35): error TS2304: Cannot find name 'login'.
+src/routes/user/user.routes.ts(25,41): error TS2304: Cannot find name 'user'.
+src/routes/user/user.routes.ts(26,23): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/routes/user/user.routes.ts(26,25): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(26,35): error TS2304: Cannot find name 'create'.
+src/routes/user/user.routes.ts(26,42): error TS2304: Cannot find name 'user'.
+src/routes/user/user.routes.ts(27,25): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/routes/user/user.routes.ts(27,27): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(27,43): error TS2703: The operand of a 'delete' operator must be a property reference.
+src/routes/user/user.routes.ts(27,44): error TS2304: Cannot find name 'user'.
+src/routes/user/user.routes.ts(28,22): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/routes/user/user.routes.ts(28,24): error TS2532: Object is possibly 'undefined'.
+src/routes/user/user.routes.ts(28,34): error TS2552: Cannot find name 'update'. Did you mean 'Date'?
+src/routes/user/user.routes.ts(28,41): error TS2304: Cannot find name 'user'.
+src/routes/user/user.routes.ts(24,29): error TS1127: Invalid character.
+src/routes/user/user.routes.ts(24,34): error TS1005: ',' expected.
+src/routes/user/user.routes.ts(24,35): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+src/routes/user/user.routes.ts(25,23): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(26,23): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(27,25): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(28,22): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(30,4): error TS1160: Unterminated template literal.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:06:14 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,50): error TS6133: 'req' is declared but its value is never read.
+src/routes/user/user.routes.ts(24,63): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,50): error TS6133: 'req' is declared but its value is never read.
+src/routes/user/user.routes.ts(24,63): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:06:28 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,63): error TS6133: 'res' is declared but its value is never read.
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,63): error TS6133: 'res' is declared but its value is never read.
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:06:37 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,50): error TS6133: 'req' is declared but its value is never read.
+src/routes/user/user.routes.ts(24,63): error TS6133: 'res' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,50): error TS6133: 'req' is declared but its value is never read.
+src/routes/user/user.routes.ts(24,63): error TS6133: 'res' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:07:19 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,63): error TS6133: 'res' is declared but its value is never read.
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,63): error TS6133: 'res' is declared but its value is never read.
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:07:29 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+src/routes/user/user.routes.ts(26,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+src/routes/user/user.routes.ts(26,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:07:36 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+src/routes/user/user.routes.ts(26,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+src/routes/user/user.routes.ts(26,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:07:46 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:08:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:15:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+src/routes/user/user.routes.ts(33,4): error TS2304: Cannot find name 'Expected'.
+src/routes/user/user.routes.ts(33,17): error TS2304: Cannot find name 'arguments'.
+src/routes/user/user.routes.ts(33,17): error TS2695: Left side of comma operator is unused and has no side effects.
+src/routes/user/user.routes.ts(33,28): error TS2304: Cannot find name 'but'.
+src/routes/user/user.routes.ts(33,32): error TS2304: Cannot find name 'got'.
+src/routes/user/user.routes.ts(33,38): error TS2304: Cannot find name 'ts'.
+src/routes/user/user.routes.ts(34,3): error TS2304: Cannot find name 'index'.
+src/routes/user/user.routes.ts(34,23): error TS2304: Cannot find name 'An'.
+src/routes/user/user.routes.ts(34,26): error TS2304: Cannot find name 'argument'.
+src/routes/user/user.routes.ts(34,46): error TS2304: Cannot find name 'was'.
+src/routes/user/user.routes.ts(34,50): error TS2304: Cannot find name 'not'.
+src/routes/user/user.routes.ts(34,54): error TS2304: Cannot find name 'provided'.
+src/routes/user/user.routes.ts(35,4): error TS2304: Cannot find name 'method'.
+src/routes/user/user.routes.ts(35,12): error TS2708: Cannot use namespace 'Express' as a value.
+src/routes/user/user.routes.ts(35,35): error TS2304: Cannot find name 'options'.
+src/routes/user/user.routes.ts(35,53): error TS2339: Property 'LogOutOptions' does not exist on type 'PassportStatic'.
+src/routes/user/user.routes.ts(35,68): error TS2304: Cannot find name 'done'.
+src/routes/user/user.routes.ts(35,104): error TS2304: Cannot find name 'overload'.
+src/routes/user/user.routes.ts(33,4): error TS1434: Unexpected keyword or identifier.
+src/routes/user/user.routes.ts(33,17): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(33,32): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(33,32): error TS1434: Unexpected keyword or identifier.
+src/routes/user/user.routes.ts(33,38): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(33,38): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/routes/user/user.routes.ts(34,21): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(34,23): error TS1434: Unexpected keyword or identifier.
+src/routes/user/user.routes.ts(34,26): error TS1434: Unexpected keyword or identifier.
+src/routes/user/user.routes.ts(34,39): error TS1005: '(' expected.
+src/routes/user/user.routes.ts(34,46): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(34,50): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(34,54): error TS1005: ')' expected.
+src/routes/user/user.routes.ts(35,3): error TS1003: Identifier expected.
+src/routes/user/user.routes.ts(35,12): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(35,42): error TS1005: ',' expected.
+src/routes/user/user.routes.ts(35,72): error TS1005: ',' expected.
+src/routes/user/user.routes.ts(35,92): error TS1109: Expression expected.
+src/routes/user/user.routes.ts(35,93): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(35,104): error TS1005: ')' expected.
+src/routes/user/user.routes.ts(35,112): error TS1128: Declaration or statement expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+src/routes/user/user.routes.ts(33,4): error TS2304: Cannot find name 'Expected'.
+src/routes/user/user.routes.ts(33,17): error TS2304: Cannot find name 'arguments'.
+src/routes/user/user.routes.ts(33,17): error TS2695: Left side of comma operator is unused and has no side effects.
+src/routes/user/user.routes.ts(33,28): error TS2304: Cannot find name 'but'.
+src/routes/user/user.routes.ts(33,32): error TS2304: Cannot find name 'got'.
+src/routes/user/user.routes.ts(33,38): error TS2304: Cannot find name 'ts'.
+src/routes/user/user.routes.ts(34,3): error TS2304: Cannot find name 'index'.
+src/routes/user/user.routes.ts(34,23): error TS2304: Cannot find name 'An'.
+src/routes/user/user.routes.ts(34,26): error TS2304: Cannot find name 'argument'.
+src/routes/user/user.routes.ts(34,46): error TS2304: Cannot find name 'was'.
+src/routes/user/user.routes.ts(34,50): error TS2304: Cannot find name 'not'.
+src/routes/user/user.routes.ts(34,54): error TS2304: Cannot find name 'provided'.
+src/routes/user/user.routes.ts(35,4): error TS2304: Cannot find name 'method'.
+src/routes/user/user.routes.ts(35,12): error TS2708: Cannot use namespace 'Express' as a value.
+src/routes/user/user.routes.ts(35,35): error TS2304: Cannot find name 'options'.
+src/routes/user/user.routes.ts(35,53): error TS2339: Property 'LogOutOptions' does not exist on type 'PassportStatic'.
+src/routes/user/user.routes.ts(35,68): error TS2304: Cannot find name 'done'.
+src/routes/user/user.routes.ts(35,104): error TS2304: Cannot find name 'overload'.
+src/routes/user/user.routes.ts(33,4): error TS1434: Unexpected keyword or identifier.
+src/routes/user/user.routes.ts(33,17): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(33,32): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(33,32): error TS1434: Unexpected keyword or identifier.
+src/routes/user/user.routes.ts(33,38): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(33,38): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+src/routes/user/user.routes.ts(34,21): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(34,23): error TS1434: Unexpected keyword or identifier.
+src/routes/user/user.routes.ts(34,26): error TS1434: Unexpected keyword or identifier.
+src/routes/user/user.routes.ts(34,39): error TS1005: '(' expected.
+src/routes/user/user.routes.ts(34,46): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(34,50): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(34,54): error TS1005: ')' expected.
+src/routes/user/user.routes.ts(35,3): error TS1003: Identifier expected.
+src/routes/user/user.routes.ts(35,12): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(35,42): error TS1005: ',' expected.
+src/routes/user/user.routes.ts(35,72): error TS1005: ',' expected.
+src/routes/user/user.routes.ts(35,92): error TS1109: Expression expected.
+src/routes/user/user.routes.ts(35,93): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(35,104): error TS1005: ')' expected.
+src/routes/user/user.routes.ts(35,112): error TS1128: Declaration or statement expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:15:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8488818457837404.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:16:57 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:18:37 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:18:45 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:19:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:20:19 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,79): error TS6133: 'next' is declared but its value is never read.
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,79): error TS6133: 'next' is declared but its value is never read.
+src/routes/user/user.routes.ts(25,11): error TS2554: Expected 1-2 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-19 19:20:41 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(27,25): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(27,25): error TS2683: 'this' implicitly has type 'any' because it does not have a type annotation.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-1609167295116416.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
