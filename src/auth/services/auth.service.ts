@@ -5,13 +5,18 @@ import bcrypt from 'bcrypt';
 
 export const userLogin = async (email:string, password:string): Promise<UserEntity | null> => {
   try {
-    logger.info('Searching for user by email and password..');
+    logger.info('=== Searching for user by email and password ===');
     const user = await AppDataSource
       .createQueryBuilder(UserEntity, 'user')
       .where('user.email = :email', { email })
       .getOne();
 
-    if(!user) return null;
+    if(!user) {
+      logger.info('User not found auth.service :15') 
+      return null;
+    }
+    logger.info(`User : ${user.password}`)
+    logger.info('Password hash : ' + user.password)
     // Compare paswwords
     const comparePw = await bcrypt.compare(password, user.password);
 
@@ -20,7 +25,7 @@ export const userLogin = async (email:string, password:string): Promise<UserEnti
     else return user;
 
   } catch (error) {
-    console.log('Error while searching for user:', error);
+    console.log('Error auth service:', error);
     return null;
   }
 };
