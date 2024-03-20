@@ -4,6 +4,7 @@ import { createUserController } from "../../user/controllers/create.user.control
 import { deleteUserController } from "../../user/controllers/delete.user.controllers";
 import { updatePasswordController } from "../../user/controllers/update.user.controller";
 import { loginController } from "../../user/controllers/login.controller";
+import { logOutUserController } from "../../user/controllers/logout.user.controller";
 
 
 export class UserRoute {
@@ -21,12 +22,7 @@ export class UserRoute {
     this.router.get(`${this.path}user`, (_req: Request, res: Response) => {
       res.status(200).render('user.pug')
     })
-    this.router.get(`${this.path}user/log-out`, (req: Request, res: Response, next:Function) => {
-      req.logout(function(err) {
-        if (err) { return next(err); }
-        res.redirect(`/`);
-      });
-    })
+    this.router.get(`${this.path}user/log-out`, logOutUserController);
     this.router.post(`${this.path}login-user`, passport.authenticate('local', { failureRedirect: '/' }), loginController);
     this.router.post(`${this.path}create-user`, createUserController);
     this.router.delete(`${this.path}delete-user`, deleteUserController);
