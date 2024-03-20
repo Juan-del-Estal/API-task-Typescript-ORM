@@ -10,6 +10,7 @@ interface EnvironmentVariables extends NodeJS.ProcessEnv {
   ORIGIN?:string;
   LOG_FORMAT?:string;
   LOG_DIR?:string;
+  JWT_SECRET?:string;
 }
 
 export const {
@@ -17,7 +18,8 @@ export const {
   PORT,
   ORIGIN,
   LOG_FORMAT,
-  LOG_DIR
+  LOG_DIR,
+  JWT_SECRET
 }:EnvironmentVariables = process.env;
 
 export abstract class ConfigServer {
