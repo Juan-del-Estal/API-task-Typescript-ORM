@@ -24,4 +24,4 @@ export class UserRoute {
     this.router.delete(`${this.path}delete-user`, deleteUserController);
     this.router.put(`${this.path}update-user`, updatePasswordController);
   }
-}
+};

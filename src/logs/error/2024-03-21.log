@@ -1,0 +1,264 @@
+2024-03-21 08:53:49 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS6133: 'authenticateJWT' is declared but its value is never read.
+src/routes/user/user.routes.ts(20,60): error TS1135: Argument expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS6133: 'authenticateJWT' is declared but its value is never read.
+src/routes/user/user.routes.ts(20,60): error TS1135: Argument expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 08:55:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(2,1): error TS6133: 'createUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(3,1): error TS6133: 'deleteUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(4,1): error TS6133: 'updatePasswordController' is declared but its value is never read.
+src/routes/user/user.routes.ts(5,1): error TS6133: 'loginController' is declared but its value is never read.
+src/routes/user/user.routes.ts(6,1): error TS6133: 'logOutUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(7,1): error TS6192: All imports in import declaration are unused.
+src/routes/user/user.routes.ts(8,10): error TS6133: 'userHomeController' is declared but its value is never read.
+src/routes/user/user.routes.ts(27,2): error TS1010: '*/' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(2,1): error TS6133: 'createUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(3,1): error TS6133: 'deleteUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(4,1): error TS6133: 'updatePasswordController' is declared but its value is never read.
+src/routes/user/user.routes.ts(5,1): error TS6133: 'loginController' is declared but its value is never read.
+src/routes/user/user.routes.ts(6,1): error TS6133: 'logOutUserController' is declared but its value is never read.
+src/routes/user/user.routes.ts(7,1): error TS6192: All imports in import declaration are unused.
+src/routes/user/user.routes.ts(8,10): error TS6133: 'userHomeController' is declared but its value is never read.
+src/routes/user/user.routes.ts(27,2): error TS1010: '*/' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 08:55:05 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS6133: 'authenticateJWT' is declared but its value is never read.
+src/routes/user/user.routes.ts(20,60): error TS1135: Argument expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS6133: 'authenticateJWT' is declared but its value is never read.
+src/routes/user/user.routes.ts(20,60): error TS1135: Argument expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 08:55:10 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS6133: 'authenticateJWT' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS6133: 'authenticateJWT' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 08:55:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,29): error TS1003: Identifier expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,29): error TS1003: Identifier expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 08:56:25 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS1141: String literal expected.
+src/routes/user/user.routes.ts(22,48): error TS2304: Cannot find name 'passportLocal'.
+src/routes/user/user.routes.ts(7,10): error TS1003: Identifier expected.
+src/routes/user/user.routes.ts(7,53): error TS1003: Identifier expected.
+src/routes/user/user.routes.ts(7,54): error TS1003: Identifier expected.
+src/routes/user/user.routes.ts(7,87): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(7,89): error TS1002: Unterminated string literal.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS1141: String literal expected.
+src/routes/user/user.routes.ts(22,48): error TS2304: Cannot find name 'passportLocal'.
+src/routes/user/user.routes.ts(7,10): error TS1003: Identifier expected.
+src/routes/user/user.routes.ts(7,53): error TS1003: Identifier expected.
+src/routes/user/user.routes.ts(7,54): error TS1003: Identifier expected.
+src/routes/user/user.routes.ts(7,87): error TS1005: ';' expected.
+src/routes/user/user.routes.ts(7,89): error TS1002: Unterminated string literal.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 08:56:30 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS6133: 'authenticateJWT' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,10): error TS6133: 'authenticateJWT' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 09:28:50 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(3,69): error TS2552: Cannot find name 'NextFunction'. Did you mean 'Function'?
+src/auth/middlewares/auth.middleware.ts(4,34): error TS2339: Property 'authorization' does not exist on type 'Headers'.
+src/auth/middlewares/auth.middleware.ts(7,9): error TS2339: Property 'token' does not exist on type 'Request'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(3,69): error TS2552: Cannot find name 'NextFunction'. Did you mean 'Function'?
+src/auth/middlewares/auth.middleware.ts(4,34): error TS2339: Property 'authorization' does not exist on type 'Headers'.
+src/auth/middlewares/auth.middleware.ts(7,9): error TS2339: Property 'token' does not exist on type 'Request'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\auth\middlewares\auth.middleware.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 09:28:56 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(3,69): error TS2552: Cannot find name 'NextFunction'. Did you mean 'Function'?
+src/auth/middlewares/auth.middleware.ts(4,34): error TS2339: Property 'authorization' does not exist on type 'Headers'.
+src/auth/middlewares/auth.middleware.ts(7,9): error TS2339: Property 'token' does not exist on type 'Request'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(3,69): error TS2552: Cannot find name 'NextFunction'. Did you mean 'Function'?
+src/auth/middlewares/auth.middleware.ts(4,34): error TS2339: Property 'authorization' does not exist on type 'Headers'.
+src/auth/middlewares/auth.middleware.ts(7,9): error TS2339: Property 'token' does not exist on type 'Request'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\auth\middlewares\auth.middleware.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 09:29:14 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(4,34): error TS2339: Property 'authorization' does not exist on type 'Headers'.
+src/auth/middlewares/auth.middleware.ts(7,9): error TS2339: Property 'token' does not exist on type 'Request'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(4,34): error TS2339: Property 'authorization' does not exist on type 'Headers'.
+src/auth/middlewares/auth.middleware.ts(7,9): error TS2339: Property 'token' does not exist on type 'Request'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\auth\middlewares\auth.middleware.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 09:29:24 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(8,9): error TS2339: Property 'token' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(8,9): error TS2339: Property 'token' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\auth\middlewares\auth.middleware.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 09:29:30 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(8,9): error TS2339: Property 'token' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(8,9): error TS2339: Property 'token' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\auth\middlewares\auth.middleware.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-36219348833389087.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 11:06:25 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(8,9): error TS2339: Property 'token' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(8,9): error TS2339: Property 'token' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\auth\middlewares\auth.middleware.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-4431647368793765.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-4431647368793765.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-4431647368793765.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-21 11:06:57 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(8,9): error TS2339: Property 'token' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/auth/middlewares/auth.middleware.ts(8,9): error TS2339: Property 'token' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\auth\middlewares\auth.middleware.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5224913183400857.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5224913183400857.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5224913183400857.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)

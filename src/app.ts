@@ -12,6 +12,7 @@ import passport from './auth/controllers/auth.controller'
 import { logger } from './utils/logger';
 import { Routes } from './routes/interfaces/route.interface';
 import { DataSource } from 'typeorm';
+import { extractJWTToken } from './auth/middlewares/auth.middleware';
 import path from 'path';
 
 export class App extends ConfigServer {
@@ -32,6 +33,7 @@ export class App extends ConfigServer {
 }
 
 private initSession() {
+  this.app.use(extractJWTToken);
   this.app.use(session({
     genid: () => uuidv4(), // Use uuidv4() as the function to generate session IDs
     secret: 'user-session-first',

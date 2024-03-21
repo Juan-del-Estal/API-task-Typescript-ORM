@@ -31,7 +31,7 @@ passport.use(new JwtStrategy({
   jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken()
 }, async (payload, done) => {
   try {
-    const userId = payload.userId; // Adjust this based on your payload structure
+    const userId = payload.userId;
     const user = await UserEntity.findById(userId);
     if (!user) {
       return done(null, false);
