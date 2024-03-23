@@ -1,15 +1,21 @@
 import { Request, Response } from 'express';
 import passport from 'passport';
 
-export const extractJWTToken = (req: Request, _res: Response, next:Function) => {
+export const extractJWTToken = (req: Request | any, _res: Response, next: Function) => {
   const authHeader = req.headers.authorization;
-  if (authHeader && authHeader.startsWith('Bearer ')) {
-    const token = authHeader.substring(7); // Eliminar 'Bearer ' del encabezado
-    req.token = token; // Guardar el token en el objeto de solicitud para su uso posterior
+  const token = authHeader && authHeader.startsWith('Bearer') ? authHeader.substring(7) : req.query.token;
+  if (token) {
+    req.token = token;
   }
   next();
 };
 
-export const authenticateJWT = passport.authenticate('jwt', { session: false });
+export const authenticateJWT = (req: Request, res: Response, next: Function) => {
+  const token = req.headers.authorization?.split(' ')[1] || req.query.token;
 
+  if (!token) {
+    return res.status(401).json({ message: 'Unauthorized' });
+  }
+  return next();
+};
 export const passportLocal = passport.authenticate('local', { failureRedirect: '/' });

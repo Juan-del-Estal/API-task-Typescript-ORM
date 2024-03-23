@@ -25,6 +25,9 @@ export class UserDTO extends BaseDTO {
 
   @IsNotEmpty()
   role!: RoleType;
+
+  @IsNotEmpty()
+  token!: string | null;
 }
 
 export enum RoleType {

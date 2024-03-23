@@ -32,8 +32,8 @@ export class App extends ConfigServer {
     this.initializeRoutes(routes);
 }
 
+
 private initSession() {
-  this.app.use(extractJWTToken);
   this.app.use(session({
     genid: () => uuidv4(), // Use uuidv4() as the function to generate session IDs
     secret: 'user-session-first',
@@ -54,6 +54,7 @@ private initializeMiddlewares() {
   this.app.set('view engine','pug');
   this.app.set('views', path.join(__dirname, 'views'));
   this.app.use(cookieParser());
+  this.app.use(extractJWTToken);
 }
 
 public listener() {

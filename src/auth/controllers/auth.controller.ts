@@ -16,10 +16,15 @@ passport.use(new LocalStrategy({
 }, async (email, password, done: DoneFunction) => {
   try {
     const { user, token } = await userLogin(email, password);
-    if (!user) {
+    console.log(`Token auth service = ${token}`)
+    
+    if (!user || !token) {
       return done(null, false, { message: 'Incorrect email or password' });
     }
-    return done(null, user, { token });
+    // Asigna el token al objeto user
+    user.token = JSON.stringify(token);
+    
+    return done(null, user); // Solo pasamos el objeto user
   } catch (error) {
     return done(error);
   }
@@ -28,7 +33,7 @@ passport.use(new LocalStrategy({
 // JWT strategy for token-based authentication
 passport.use(new JwtStrategy({
   secretOrKey: secretJWT, // Replace with your actual secret key
-  jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken()
+  jwtFromRequest: ExtractJwt.fromAuthHeaderWithScheme('Bearer'),
 }, async (payload, done) => {
   try {
     const userId = payload.userId;
@@ -43,9 +48,9 @@ passport.use(new JwtStrategy({
 }));
 
 // Serialization
-passport.serializeUser((user, done) => {
-  const userEntity = user as UserEntity;
-  done(null, userEntity.id);
+passport.serializeUser((user: UserEntity | any, done) => {
+  // Aquí guardamos solo el ID del usuario en la sesión del usuario
+  done(null, user.id);
 });
 
 // Deserialization of user

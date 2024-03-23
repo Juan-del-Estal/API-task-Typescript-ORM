@@ -16,7 +16,7 @@ export class UserRoute {
   }
 
   public initUserRoutes() {
-    this.router.get(`${this.path}`,indexPageController );
+    this.router.get(`${this.path}`,indexPageController);
     this.router.get(`${this.path}user`, authenticateJWT, userHomeController)
     this.router.get(`${this.path}user/log-out`, logOutUserController);
     this.router.post(`${this.path}login-user`, passportLocal, loginController);

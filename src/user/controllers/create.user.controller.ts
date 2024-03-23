@@ -13,4 +13,4 @@ export const createUserController = async (req: Request, res: Response) => {
     console.error(`An error was occured during user creation ${err} `)
     return res.status(500).json({ message: 'Internal server error' });
   }
-} 
+}; 
