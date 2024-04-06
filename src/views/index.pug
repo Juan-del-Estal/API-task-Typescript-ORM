@@ -7,7 +7,7 @@ html(lang="en")
     script(src='index.js')
     title Welcome
   body
-    form(action='api/login-user' method='POST', id='login-form')
+    form(action='api/login-user' method='POST', id='login-form', enctype="multipart/form-data")
       .mb-3
         label(for='exampleInputEmail1', class='form-label') Email address
         input(type='email', name='email', class='form-control', id='exampleInputEmail1', aria-describedby='emailHelp')
@@ -19,21 +19,38 @@ html(lang="en")
     a(href='#', class='hide-button-form') Don't have an account? Sign Up.
     a(href='#', class='back-button', style='display:none;') Back
 
-    form(action='#', method='POST', id='sign-up-form', style='display:none;')
+    form(action='http://localhost:3000/api/create-user', method='POST', id='sign-up-form', style='display:none;', enctype="multipart/form-data")
+      .mb-3
+        label(for='name', class='form-label') Firstname
+        input(type='text', class='form-control', id='name', name='name')
+      .mb-3
+        label(for='lastname', class='form-label') Lastname
+        input(type='text', class='form-control', id='lastname', name='lastname')
+      .mb-3
+        label(for='province', class='form-label') Province
+        input(type='text', class='form-control', id='province', name='province')
+      .mb-3
+        label(for='city', class='form-label') City
+        input(type='text', class='form-control', id='city', name='city')
       .mb-3
         label(for='username', class='form-label') Username
-        input(type='text', class='form-control', id='username')
+        input(type='text', class='form-control', id='username', name='username')
       .mb-3
         label(for='exampleInputEmail2', class='form-label') Email address
-        input(type='email', class='form-control', id='exampleInputEmail2', aria-describedby='emailHelp')
+        input(type='email', name='email', class='form-control', id='exampleInputEmail2', aria-describedby='emailHelp')
         #emailHelp.form-text We'll never share your email with anyone else.
       .mb-3
         label(for='exampleInputPassword2', class='form-label') Password
-        input(type='password', class='form-control', id='exampleInputPassword2')
+        input(type='password', name='password', class='form-control', id='exampleInputPassword2')
       .mb-3
         label(for='confirmPassword', class='form-label') Confirm Password
-        input(type='password', class='form-control', id='confirmPassword')
-      .mb-3.form-check
-        input(type='checkbox', class='form-check-input', id='exampleCheck2')
-        label.form-check-label(for='exampleCheck2') Check me out
+        input(type='password', name='confirmPassword', class='form-control', id='confirmPassword')
+      br
+      .mb-3 
+        label(for='profilePhoto', class='form-label') Don´t forget your profile photo!
+        br
+        i  (We only accept .jpg .png and gif)
+        br
+        br
+        input(type='file', id='profilePhoto', name='userPhoto', accept='.jpg, .png, .gif')
       button(type='submit', class='btn btn-primary') Submit

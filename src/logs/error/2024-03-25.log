@@ -1,0 +1,172 @@
+2024-03-25 21:15:40 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(40,9): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(40,9): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:43:35 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,30): error TS2339: Property 'profilePhoto' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(9,30): error TS6133: 'profilePhoto' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,30): error TS2339: Property 'profilePhoto' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(9,30): error TS6133: 'profilePhoto' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:45:35 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,30): error TS2339: Property 'profilePhoto' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(9,30): error TS6133: 'profilePhoto' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,30): error TS2339: Property 'profilePhoto' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(9,30): error TS6133: 'profilePhoto' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:46:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(6,1): error TS6133: 'upload' is declared but its value is never read.
+src/user/services/create.user.service.ts(10,30): error TS2339: Property 'profilePhoto' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(10,30): error TS6133: 'profilePhoto' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(6,1): error TS6133: 'upload' is declared but its value is never read.
+src/user/services/create.user.service.ts(10,30): error TS2339: Property 'profilePhoto' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(10,30): error TS6133: 'profilePhoto' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:52:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(9,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(9,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:52:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:52:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:52:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,62): error TS2339: Property 'single' does not exist on type 'RequestHandler<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+src/routes/user/user.routes.ts(24,72): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,62): error TS2339: Property 'single' does not exist on type 'RequestHandler<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+src/routes/user/user.routes.ts(24,72): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:52:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,62): error TS2339: Property 'single' does not exist on type 'RequestHandler<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+src/routes/user/user.routes.ts(24,84): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,62): error TS2339: Property 'single' does not exist on type 'RequestHandler<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.
+src/routes/user/user.routes.ts(24,84): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-25 21:52:54 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(7,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-9766765098253121.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)

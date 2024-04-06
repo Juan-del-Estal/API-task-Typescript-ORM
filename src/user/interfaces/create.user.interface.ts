@@ -7,7 +7,9 @@ export default interface UserInterface {
     username: string;
     email: string;
     password: string;
+    confirmPassword:string;
     city: string;
     province: string;
+    profilePhoto: File | null;
     role: RoleType;
 }   

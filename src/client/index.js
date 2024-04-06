@@ -16,9 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     signUp.style.display = 'none';
     backButton.style.display = 'none';
     hideButtonForm.style.display ='block';
-
   })
-
 });
 
 

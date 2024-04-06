@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import express, {Application} from 'express';
+import express, {Application, NextFunction} from 'express';
 import session from 'express-session';
 import { ConfigServer, NODE_ENV, PORT } from './config/config';
 import helmet from 'helmet';
@@ -8,6 +8,7 @@ import { v4 as uuidv4 } from 'uuid';
 import cookieParser from 'cookie-parser';
 import corsConfig from './config/cors.config';
 import cors from 'cors';
+import { Request, Response } from 'firebase-functions/v1';
 import passport from './auth/controllers/auth.controller'
 import { logger } from './utils/logger';
 import { Routes } from './routes/interfaces/route.interface';
@@ -27,6 +28,7 @@ export class App extends ConfigServer {
     this.port = Number(PORT) || 3000;
   
     this.initializeMiddlewares();
+    this.errorHandler();
     this.initSession();
     this.connectToDatabase();
     this.initializeRoutes(routes);
@@ -65,6 +67,13 @@ public listener() {
     logger.info(`=================================`);
   } )
 };
+
+private errorHandler() {
+  this.app.use((err:any, _req:Request, res:Response, _next:NextFunction) => {
+    console.error(err.stack);
+    res.status(500).send('Something broke!');
+  });
+}
 
 private async connectToDatabase(): Promise<DataSource | void> {
   // TODO: Init conexion

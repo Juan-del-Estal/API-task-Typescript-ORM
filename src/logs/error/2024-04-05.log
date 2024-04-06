@@ -1,0 +1,344 @@
+2024-04-05 17:16:53 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,1): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,1): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:17:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(3,17): error TS1141: String literal expected.
+src/user/controllers/upload.user.avatar.ts(3,17): error TS1005: '{' expected.
+src/user/controllers/upload.user.avatar.ts(3,26): error TS1128: Declaration or statement expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(3,17): error TS1141: String literal expected.
+src/user/controllers/upload.user.avatar.ts(3,17): error TS1005: '{' expected.
+src/user/controllers/upload.user.avatar.ts(3,26): error TS1128: Declaration or statement expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:17:09 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,1): error TS1005: 'from' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,1): error TS1005: 'from' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:17:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(3,1): error TS6192: All imports in import declaration are unused.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(3,1): error TS6192: All imports in import declaration are unused.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:17:21 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(3,19): error TS6133: 'Response' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(3,19): error TS6133: 'Response' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-28383711508586007.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:38:24 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(3,1): error TS6133: 'Logger' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(3,1): error TS6133: 'Logger' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:38:51 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(6,27): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(6,27): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:50:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+src/utils/multer.ts(8,14): error TS2345: Argument of type 'void' is not assignable to parameter of type 'string'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+src/utils/multer.ts(8,14): error TS2345: Argument of type 'void' is not assignable to parameter of type 'string'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:50:26 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:50:32 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:50:53 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 17:50:58 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(2,1): error TS6133: 'path' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7047157272373552.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 19:18:37 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(13,7): error TS6133: 'upload' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(13,7): error TS6133: 'upload' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 19:18:57 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(2,16): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(2,16): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 19:19:10 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,7): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,7): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 19:19:17 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\express\lib\router\route.js:216:15)
+    at Function.proto.<computed> [as post] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initUserRoutes (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:24:17)
+    at new UserRoute (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:16:10)
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\index.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3440303564691112.js:114:20)
+2024-04-05 20:26:05 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,46): error TS2345: Argument of type 'string' is not assignable to parameter of type 'UserInterface'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,46): error TS2345: Argument of type 'string' is not assignable to parameter of type 'UserInterface'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 20:26:24 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,11): error TS2322: Type 'string' is not assignable to type 'UserEntity'.
+src/user/controllers/create.user.controller.ts(10,46): error TS2345: Argument of type 'UserEntity' is not assignable to parameter of type 'UserInterface'.
+  Type 'UserEntity' is missing the following properties from type 'UserInterface': confirmPassword, profilePhoto
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,11): error TS2322: Type 'string' is not assignable to type 'UserEntity'.
+src/user/controllers/create.user.controller.ts(10,46): error TS2345: Argument of type 'UserEntity' is not assignable to parameter of type 'UserInterface'.
+  Type 'UserEntity' is missing the following properties from type 'UserInterface': confirmPassword, profilePhoto
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 20:26:35 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(10,46): error TS2345: Argument of type 'UserEntity' is not assignable to parameter of type 'UserInterface'.
+  Type 'UserEntity' is missing the following properties from type 'UserInterface': confirmPassword, profilePhoto
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(10,46): error TS2345: Argument of type 'UserEntity' is not assignable to parameter of type 'UserInterface'.
+  Type 'UserEntity' is missing the following properties from type 'UserInterface': confirmPassword, profilePhoto
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 20:26:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,1): error TS6133: 'UserEntity' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,1): error TS6133: 'UserEntity' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-05 20:28:18 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,1): error TS6133: 'UserInterface' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,1): error TS6133: 'UserInterface' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-8810790300081079.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)

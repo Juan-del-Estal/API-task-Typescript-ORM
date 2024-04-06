@@ -6,20 +6,24 @@ import { v4 as uuidv4 } from 'uuid';
 import bcrypt from 'bcrypt'
 
 export const createUserService = async (user: UserInterface) => {
-    const { username, email } = user;
+    const { username, email, password, confirmPassword} = user;
     // Check if username already exists
     const existingUserName = await AppDataSource.manager.findOne(UserEntity, { where: { username } });
     if (existingUserName) {
         console.log('Username already exists:', username);
         return { message: 'Username already in use.' };
     }
-    
     // Check if the email exists
     const existingEmail = await AppDataSource.manager.findOne(UserEntity, { where: { email } });
     if (existingEmail) {
         console.log('Email already exists:', email);
         return { message: 'Email already in use.' };
     }
+
+    if(password !== confirmPassword) {
+        return { message: 'Passwords don´t match'}
+    }
+
     // If the username and email don´t exist, proceed with creating the new user
     const newUser = new UserEntity();
     // Hash password

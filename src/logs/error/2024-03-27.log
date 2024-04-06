@@ -1,0 +1,382 @@
+2024-03-27 12:20:35 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,11): error TS6133: 'message' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(11,3): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,11): error TS6133: 'message' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(11,3): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:20:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,11): error TS6133: 'message' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,11): error TS6133: 'message' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:21:05 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,11): error TS6133: 'newUser' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(9,11): error TS6133: 'newUser' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:21:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(4,37): error TS7030: Not all code paths return a value.
+src/user/controllers/create.user.controller.ts(9,11): error TS6133: 'newUser' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(11,8): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(4,37): error TS7030: Not all code paths return a value.
+src/user/controllers/create.user.controller.ts(9,11): error TS6133: 'newUser' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(11,8): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:21:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(4,37): error TS7030: Not all code paths return a value.
+src/user/controllers/create.user.controller.ts(16,3): error TS1005: 'try' expected.
+src/user/controllers/create.user.controller.ts(20,2): error TS1472: 'catch' or 'finally' expected.
+src/user/controllers/create.user.controller.ts(21,1): error TS1005: '}' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(4,37): error TS7030: Not all code paths return a value.
+src/user/controllers/create.user.controller.ts(16,3): error TS1005: 'try' expected.
+src/user/controllers/create.user.controller.ts(20,2): error TS1472: 'catch' or 'finally' expected.
+src/user/controllers/create.user.controller.ts(21,1): error TS1005: '}' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:35:19 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,30): error TS6133: 'password' is declared but its value is never read.
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(9,40): error TS6133: 'confirmPassword' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,30): error TS6133: 'password' is declared but its value is never read.
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(9,40): error TS6133: 'confirmPassword' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:35:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,30): error TS6133: 'password' is declared but its value is never read.
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(9,40): error TS6133: 'confirmPassword' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,30): error TS6133: 'password' is declared but its value is never read.
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(9,40): error TS6133: 'confirmPassword' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:35:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:35:53 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(24,27): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+src/user/services/create.user.service.ts(24,27): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:35:58 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(9,40): error TS2339: Property 'confirmPassword' does not exist on type 'UserInterface'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-3882276348592142.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:40:42 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,1): error TS6133: 'createUserService' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(4,37): error TS7030: Not all code paths return a value.
+src/user/controllers/create.user.controller.ts(14,20): error TS2304: Cannot find name 'An'.
+src/user/controllers/create.user.controller.ts(14,23): error TS2552: Cannot find name 'error'. Did you mean 'Error'?
+src/user/controllers/create.user.controller.ts(14,29): error TS2304: Cannot find name 'was'.
+src/user/controllers/create.user.controller.ts(14,33): error TS2304: Cannot find name 'occured'.
+src/user/controllers/create.user.controller.ts(14,41): error TS2304: Cannot find name 'during'.
+src/user/controllers/create.user.controller.ts(14,48): error TS2304: Cannot find name 'user'.
+src/user/controllers/create.user.controller.ts(14,53): error TS2304: Cannot find name 'creation'.
+src/user/controllers/create.user.controller.ts(14,62): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/user/controllers/create.user.controller.ts(14,63): error TS2349: This expression is not callable.
+  Type '{ err: any; }' has no call signatures.
+src/user/controllers/create.user.controller.ts(14,64): error TS18004: No value exists in scope for the shorthand property 'err'. Either declare one or provide an initializer.
+src/user/controllers/create.user.controller.ts(14,20): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,23): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,29): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,33): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,41): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,48): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,53): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,62): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,63): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(18,1): error TS1160: Unterminated template literal.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,1): error TS6133: 'createUserService' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(4,37): error TS7030: Not all code paths return a value.
+src/user/controllers/create.user.controller.ts(14,20): error TS2304: Cannot find name 'An'.
+src/user/controllers/create.user.controller.ts(14,23): error TS2552: Cannot find name 'error'. Did you mean 'Error'?
+src/user/controllers/create.user.controller.ts(14,29): error TS2304: Cannot find name 'was'.
+src/user/controllers/create.user.controller.ts(14,33): error TS2304: Cannot find name 'occured'.
+src/user/controllers/create.user.controller.ts(14,41): error TS2304: Cannot find name 'during'.
+src/user/controllers/create.user.controller.ts(14,48): error TS2304: Cannot find name 'user'.
+src/user/controllers/create.user.controller.ts(14,53): error TS2304: Cannot find name 'creation'.
+src/user/controllers/create.user.controller.ts(14,62): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/user/controllers/create.user.controller.ts(14,63): error TS2349: This expression is not callable.
+  Type '{ err: any; }' has no call signatures.
+src/user/controllers/create.user.controller.ts(14,64): error TS18004: No value exists in scope for the shorthand property 'err'. Either declare one or provide an initializer.
+src/user/controllers/create.user.controller.ts(14,20): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,23): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,29): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,33): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,41): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,48): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,53): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,62): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,63): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(18,1): error TS1160: Unterminated template literal.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 12:40:49 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,1): error TS6133: 'createUserService' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(4,37): error TS7030: Not all code paths return a value.
+src/user/controllers/create.user.controller.ts(14,20): error TS2304: Cannot find name 'An'.
+src/user/controllers/create.user.controller.ts(14,23): error TS2552: Cannot find name 'error'. Did you mean 'Error'?
+src/user/controllers/create.user.controller.ts(14,29): error TS2304: Cannot find name 'was'.
+src/user/controllers/create.user.controller.ts(14,33): error TS2304: Cannot find name 'occured'.
+src/user/controllers/create.user.controller.ts(14,41): error TS2304: Cannot find name 'during'.
+src/user/controllers/create.user.controller.ts(14,48): error TS2304: Cannot find name 'user'.
+src/user/controllers/create.user.controller.ts(14,53): error TS2304: Cannot find name 'creation'.
+src/user/controllers/create.user.controller.ts(14,62): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/user/controllers/create.user.controller.ts(14,63): error TS2349: This expression is not callable.
+  Type '{ err: any; }' has no call signatures.
+src/user/controllers/create.user.controller.ts(14,64): error TS18004: No value exists in scope for the shorthand property 'err'. Either declare one or provide an initializer.
+src/user/controllers/create.user.controller.ts(14,20): error TS1005: '}' expected.
+src/user/controllers/create.user.controller.ts(14,23): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,29): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,33): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,41): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,48): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,53): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,62): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,63): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(18,1): error TS1160: Unterminated template literal.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(1,1): error TS6133: 'createUserService' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(4,37): error TS7030: Not all code paths return a value.
+src/user/controllers/create.user.controller.ts(14,20): error TS2304: Cannot find name 'An'.
+src/user/controllers/create.user.controller.ts(14,23): error TS2552: Cannot find name 'error'. Did you mean 'Error'?
+src/user/controllers/create.user.controller.ts(14,29): error TS2304: Cannot find name 'was'.
+src/user/controllers/create.user.controller.ts(14,33): error TS2304: Cannot find name 'occured'.
+src/user/controllers/create.user.controller.ts(14,41): error TS2304: Cannot find name 'during'.
+src/user/controllers/create.user.controller.ts(14,48): error TS2304: Cannot find name 'user'.
+src/user/controllers/create.user.controller.ts(14,53): error TS2304: Cannot find name 'creation'.
+src/user/controllers/create.user.controller.ts(14,62): error TS2581: Cannot find name '$'. Do you need to install type definitions for jQuery? Try `npm i --save-dev @types/jquery`.
+src/user/controllers/create.user.controller.ts(14,63): error TS2349: This expression is not callable.
+  Type '{ err: any; }' has no call signatures.
+src/user/controllers/create.user.controller.ts(14,64): error TS18004: No value exists in scope for the shorthand property 'err'. Either declare one or provide an initializer.
+src/user/controllers/create.user.controller.ts(14,20): error TS1005: '}' expected.
+src/user/controllers/create.user.controller.ts(14,23): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,29): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,33): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,41): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,48): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,53): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,62): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(14,63): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(18,1): error TS1160: Unterminated template literal.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 13:38:19 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(8,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(8,1): error TS6133: 'uploadAvatar' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6499514671991531.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 15:11:26 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(1,17): error TS2304: Cannot find name 'multer'.
+src/utils/multer.ts(2,26): error TS7006: Parameter '_req' implicitly has an 'any' type.
+src/utils/multer.ts(2,32): error TS7006: Parameter '_file' implicitly has an 'any' type.
+src/utils/multer.ts(2,39): error TS7006: Parameter 'cb' implicitly has an 'any' type.
+src/utils/multer.ts(3,25): error TS2304: Cannot find name 'path'.
+src/utils/multer.ts(7,23): error TS7006: Parameter '_req' implicitly has an 'any' type.
+src/utils/multer.ts(7,29): error TS7006: Parameter 'file' implicitly has an 'any' type.
+src/utils/multer.ts(7,35): error TS7006: Parameter 'cb' implicitly has an 'any' type.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(1,17): error TS2304: Cannot find name 'multer'.
+src/utils/multer.ts(2,26): error TS7006: Parameter '_req' implicitly has an 'any' type.
+src/utils/multer.ts(2,32): error TS7006: Parameter '_file' implicitly has an 'any' type.
+src/utils/multer.ts(2,39): error TS7006: Parameter 'cb' implicitly has an 'any' type.
+src/utils/multer.ts(3,25): error TS2304: Cannot find name 'path'.
+src/utils/multer.ts(7,23): error TS7006: Parameter '_req' implicitly has an 'any' type.
+src/utils/multer.ts(7,29): error TS7006: Parameter 'file' implicitly has an 'any' type.
+src/utils/multer.ts(7,35): error TS7006: Parameter 'cb' implicitly has an 'any' type.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 15:11:33 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(4,7): error TS6133: 'storage' is declared but its value is never read.
+src/utils/multer.ts(6,25): error TS2304: Cannot find name 'path'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(4,7): error TS6133: 'storage' is declared but its value is never read.
+src/utils/multer.ts(6,25): error TS2304: Cannot find name 'path'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-03-27 15:11:39 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(5,25): error TS2304: Cannot find name 'path'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/utils/multer.ts(5,25): error TS2304: Cannot find name 'path'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\utils\multer.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-7594764837077861.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
