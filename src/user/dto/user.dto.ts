@@ -25,10 +25,10 @@ export class UserDTO extends BaseDTO {
 
   @IsNotEmpty()
   role!: RoleType;
-
+  
   @IsNotEmpty()
   profilePhoto!: string;
-
+  
   @IsNotEmpty()
   token!: string | null;
 }

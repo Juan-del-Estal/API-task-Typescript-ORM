@@ -3,10 +3,10 @@ import { AppDataSource } from "../../config/data.source";
 import UserInterface from "../interfaces/create.user.interface";
 import { RoleType } from "../dto/user.dto";
 import { v4 as uuidv4 } from 'uuid';
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcrypt';
 
-export const createUserService = async (user: UserInterface) => {
-    const { username, email, password, confirmPassword} = user;
+export const createUserService = async (user: UserInterface, photo:string) => {
+    const { username, email, password, confirmPassword } = user;
     // Check if username already exists
     const existingUserName = await AppDataSource.manager.findOne(UserEntity, { where: { username } });
     if (existingUserName) {
@@ -35,6 +35,7 @@ export const createUserService = async (user: UserInterface) => {
     // Adding unique ID and respective role
     newUser.id = uuidv4();
     newUser.role = RoleType.USER;
+    newUser.profilePhoto = photo;
     
     // Copying props from user to newUser
     Object.assign(newUser, user); 

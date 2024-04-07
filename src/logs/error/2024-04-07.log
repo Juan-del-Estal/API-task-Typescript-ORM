@@ -1,0 +1,234 @@
+2024-04-07 20:07:40 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'photo' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'photo' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:07:52 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'photo' is declared but its value is never read.
+src/user/services/create.user.service.ts(41,5): error TS2339: Property 'Object' does not exist on type 'UserEntity'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(8,62): error TS6133: 'photo' is declared but its value is never read.
+src/user/services/create.user.service.ts(41,5): error TS2339: Property 'Object' does not exist on type 'UserEntity'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:08:12 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(11,11): error TS6133: 'photo' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(12,28): error TS2554: Expected 2 arguments, but got 1.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(11,11): error TS6133: 'photo' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(12,28): error TS2554: Expected 2 arguments, but got 1.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:13:09 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(11,19): error TS18048: 'req.file' is possibly 'undefined'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(11,19): error TS18048: 'req.file' is possibly 'undefined'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:13:34 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(13,52): error TS2345: Argument of type 'string | undefined' is not assignable to parameter of type 'string'.
+  Type 'undefined' is not assignable to type 'string'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(13,52): error TS2345: Argument of type 'string | undefined' is not assignable to parameter of type 'string'.
+  Type 'undefined' is not assignable to type 'string'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:13:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(13,52): error TS18048: 'photo' is possibly 'undefined'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(13,52): error TS18048: 'photo' is possibly 'undefined'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:13:54 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(12,11): error TS1155: 'const' declarations must be initialized.
+src/user/controllers/create.user.controller.ts(12,11): error TS6133: 'filename' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(12,11): error TS7005: Variable 'filename' implicitly has an 'any' type.
+src/user/controllers/create.user.controller.ts(14,52): error TS18048: 'photo' is possibly 'undefined'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(12,11): error TS1155: 'const' declarations must be initialized.
+src/user/controllers/create.user.controller.ts(12,11): error TS6133: 'filename' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(12,11): error TS7005: Variable 'filename' implicitly has an 'any' type.
+src/user/controllers/create.user.controller.ts(14,52): error TS18048: 'photo' is possibly 'undefined'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:13:59 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(12,11): error TS6133: 'filename' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(14,52): error TS18048: 'photo' is possibly 'undefined'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(12,11): error TS6133: 'filename' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(14,52): error TS18048: 'photo' is possibly 'undefined'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:14:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(12,11): error TS6133: 'filename' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(14,52): error TS18048: 'photo' is possibly 'undefined'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(12,11): error TS6133: 'filename' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(14,52): error TS18048: 'photo' is possibly 'undefined'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:14:39 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(11,11): error TS6133: 'photo' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(13,52): error TS2552: Cannot find name 'filename'. Did you mean '__filename'?
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(11,11): error TS6133: 'photo' is declared but its value is never read.
+src/user/controllers/create.user.controller.ts(13,52): error TS2552: Cannot find name 'filename'. Did you mean '__filename'?
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-10528575499747661.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:20:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(21,65): error TS2554: Expected 0-1 arguments, but got 2.
+src/user/controllers/create.user.controller.ts(21,63): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(21,69): error TS1005: ')' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(21,65): error TS2554: Expected 0-1 arguments, but got 2.
+src/user/controllers/create.user.controller.ts(21,63): error TS1005: ',' expected.
+src/user/controllers/create.user.controller.ts(21,69): error TS1005: ')' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-4271742002651455.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-4271742002651455.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-4271742002651455.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:21:25 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(21,55): error TS1005: ':' expected.
+src/user/controllers/create.user.controller.ts(21,57): error TS1134: Variable declaration expected.
+src/user/controllers/create.user.controller.ts(21,59): error TS1389: 'null' is not allowed as a variable declaration name.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/create.user.controller.ts(21,55): error TS1005: ':' expected.
+src/user/controllers/create.user.controller.ts(21,57): error TS1134: Variable declaration expected.
+src/user/controllers/create.user.controller.ts(21,59): error TS1389: 'null' is not allowed as a variable declaration name.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\create.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5889393488476007.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5889393488476007.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5889393488476007.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-07 20:22:06 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(38,40): error TS1005: ')' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/services/create.user.service.ts(38,40): error TS1005: ')' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\services\create.user.service.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5889393488476007.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5889393488476007.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5889393488476007.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
