@@ -30,6 +30,9 @@ export class UserEntity extends BaseEntity {
   @Column({ type: "enum", enum: RoleType, nullable: false })
   role!: RoleType;
 
+  @Column()
+  profilePhoto!: string;
+
   @Column({ nullable: true, type:'varchar' }) // El token puede ser nulo si el usuario no está autenticado
   token!: string | null;
 
