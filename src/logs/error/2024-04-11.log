@@ -1,0 +1,54 @@
+2024-04-11 15:32:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(15,23): error TS2345: Argument of type 'RegExp' is not assignable to parameter of type 'string'.
+src/user/controllers/login.controller.ts(14,24): error TS1161: Unterminated regular expression literal.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(15,23): error TS2345: Argument of type 'RegExp' is not assignable to parameter of type 'string'.
+src/user/controllers/login.controller.ts(14,24): error TS1161: Unterminated regular expression literal.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5879087781945131.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5879087781945131.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5879087781945131.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-11 16:33:44 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(15,3): error TS2554: Expected 0-1 arguments, but got 2.
+src/user/controllers/login.controller.ts(15,3): error TS1005: ',' expected.
+src/user/controllers/login.controller.ts(16,3): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(15,3): error TS2554: Expected 0-1 arguments, but got 2.
+src/user/controllers/login.controller.ts(15,3): error TS1005: ',' expected.
+src/user/controllers/login.controller.ts(16,3): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6135227792087179.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6135227792087179.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6135227792087179.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-11 16:44:53 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(8,18): error TS2304: Cannot find name 'user'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/login.controller.ts(8,18): error TS2304: Cannot find name 'user'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\login.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6135227792087179.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6135227792087179.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6135227792087179.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)

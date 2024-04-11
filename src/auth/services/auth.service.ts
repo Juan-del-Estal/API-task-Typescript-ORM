@@ -31,7 +31,7 @@ export const userLogin = async (email: string, password: string): Promise<AuthRe
       return { user: null, token:null };
     }
 
-    // If password matches, generate JWT token
+    // If password matches, generate JWT token and save id on the session
     const token:string = jwt.sign({ userId: user.id }, secretJWT, { expiresIn: '1h' });
 
     return { user, token };

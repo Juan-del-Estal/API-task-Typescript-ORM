@@ -12,10 +12,10 @@ export const extractJWTToken = (req: Request | any, _res: Response, next: Functi
 
 export const authenticateJWT = (req: Request, res: Response, next: Function) => {
   const token = req.headers.authorization?.split(' ')[1] || req.query.token;
-
   if (!token) {
     return res.status(401).json({ message: 'Unauthorized' });
   }
   return next();
 };
-export const passportLocal = passport.authenticate('local', { failureRedirect: '/' });
+
+export const passportLocal = passport.authenticate('local', { failureRedirect: '/api' })

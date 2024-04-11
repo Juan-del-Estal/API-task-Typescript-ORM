@@ -1,14 +1,14 @@
 import 'reflect-metadata';
 import express, {Application, NextFunction} from 'express';
 import session from 'express-session';
+import { Request, Response } from 'express';
 import { ConfigServer, NODE_ENV, PORT } from './config/config';
 import helmet from 'helmet';
 import hpp from 'hpp';
-import { v4 as uuidv4 } from 'uuid';
+//mport { v4 as uuidv4 } from 'uuid';
 import cookieParser from 'cookie-parser';
 import corsConfig from './config/cors.config';
 import cors from 'cors';
-import { Request, Response } from 'firebase-functions/v1';
 import passport from './auth/controllers/auth.controller'
 import { logger } from './utils/logger';
 import { Routes } from './routes/interfaces/route.interface';
@@ -28,19 +28,19 @@ export class App extends ConfigServer {
     this.port = Number(PORT) || 3000;
   
     this.initializeMiddlewares();
-    this.errorHandler();
     this.initSession();
+    this.errorHandler();
     this.connectToDatabase();
     this.initializeRoutes(routes);
 }
 
-
 private initSession() {
   this.app.use(session({
-    genid: () => uuidv4(), // Use uuidv4() as the function to generate session IDs
+    //genid: () => uuidv4(), // Use uuidv4() as the function to generate session IDs
     secret: 'user-session-first',
-    resave: false,
-    saveUninitialized: true
+    resave: true,
+    saveUninitialized: true,
+    cookie: { secure: false }  // Activate with https protocol
   })); 
   this.app.use(passport.initialize());
   this.app.use(passport.session());

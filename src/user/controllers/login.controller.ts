@@ -1,13 +1,17 @@
 import { Request, Response } from "express";
-import {logger} from '../../utils/logger'
+import { logger } from '../../utils/logger';
 
-export const loginController = (req:Request | any, res: Response) => {
-  const token = req.user ? req.user.token : null; // Verificamos si req.user está definido
-  const user = req.user || null;
-  if (!token || !user) {
-    logger.error('⚠️⚠️ Token not found on user auth... loginController:7 ⚠️⚠️')
-    return res.status(401).json({message:'Invalid credentials'});
+export const loginController = (req: Request | any, res: Response) => {
+  console.log('log running..')
+  const token = req.user ? req.user.token : null;
+
+  if (!token) {
+    logger.error('⚠️⚠️ Token or user not found during authentication. loginController:7 ⚠️⚠️');
+    return res.status(401).json({ message: 'Invalid credentials' });
   }
-  // Redirigir al usuario con el token como parámetro de consulta
-  return res.redirect(`user?token=${token}`);
+  // Saving user ID on the session
+  req.session.userId = req.user.id
+  
+  const redirectURL = `user?token=${token}`;
+  return res.redirect(redirectURL);
 };

@@ -13,18 +13,19 @@ const secretJWT: string | null = String(JWT_SECRET);
 passport.use(new LocalStrategy({
   usernameField: 'email',
   passwordField: 'password'
-}, async (email, password, done: DoneFunction) => {
+}, async (email: string, password: string, done: DoneFunction) => { // Remove req parameter
   try {
     const { user, token } = await userLogin(email, password);
-    console.log(`Token auth service = ${token}`)
-    
+    console.log(`Token auth service = ${token}`);
+
     if (!user || !token) {
       return done(null, false, { message: 'Incorrect email or password' });
     }
+
     // Asigna el token al objeto user
     user.token = JSON.stringify(token);
     
-    return done(null, user); // Solo pasamos el objeto user
+    return done(null, user);
   } catch (error) {
     return done(error);
   }
