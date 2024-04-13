@@ -52,7 +52,9 @@ private initializeMiddlewares() {
   this.app.use(cors(corsConfig)); 
   this.app.use(hpp());
   this.app.use(helmet());
-  this.app.use(express.static(path.join(__dirname, 'client')));
+  this.app.use(express.static(path.join(__dirname, 'public')));
+  this.app.use('/client', express.static(path.join(__dirname, 'public', 'client')));
+  this.app.use('/profile', express.static(path.join(__dirname, 'public', 'profile')));
   this.app.set('view engine','pug');
   this.app.set('views', path.join(__dirname, 'views'));
   this.app.use(cookieParser());

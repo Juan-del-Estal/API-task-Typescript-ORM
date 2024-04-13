@@ -1,0 +1,40 @@
+2024-04-12 21:02:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(5,51): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(5,51): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\home.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-41343172732155997.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-41343172732155997.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-41343172732155997.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-12 21:03:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(5,3): error TS2554: Expected 0-1 arguments, but got 2.
+src/user/controllers/home.user.controller.ts(5,39): error TS2448: Block-scoped variable 'profilePhoto' used before its declaration.
+src/user/controllers/home.user.controller.ts(5,39): error TS2454: Variable 'profilePhoto' is used before being assigned.
+src/user/controllers/home.user.controller.ts(5,3): error TS1005: ',' expected.
+src/user/controllers/home.user.controller.ts(6,1): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(5,3): error TS2554: Expected 0-1 arguments, but got 2.
+src/user/controllers/home.user.controller.ts(5,39): error TS2448: Block-scoped variable 'profilePhoto' used before its declaration.
+src/user/controllers/home.user.controller.ts(5,39): error TS2454: Variable 'profilePhoto' is used before being assigned.
+src/user/controllers/home.user.controller.ts(5,3): error TS1005: ',' expected.
+src/user/controllers/home.user.controller.ts(6,1): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\home.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-41343172732155997.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-41343172732155997.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-41343172732155997.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
