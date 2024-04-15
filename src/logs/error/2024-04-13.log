@@ -1,0 +1,370 @@
+2024-04-13 18:11:07 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(5,9): error TS6133: 'username' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(5,9): error TS6133: 'username' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\home.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 18:11:14 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(5,9): error TS6133: 'username' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(5,9): error TS6133: 'username' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\home.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 18:26:08 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(7,9): error TS6133: 'name' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(7,9): error TS6133: 'name' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\home.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 18:26:15 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(7,9): error TS6133: 'name' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(7,9): error TS6133: 'name' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\home.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 18:26:25 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(7,9): error TS6133: 'name' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(7,9): error TS6133: 'name' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\home.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 18:26:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(7,9): error TS6133: 'name' is declared but its value is never read.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/home.user.controller.ts(7,9): error TS6133: 'name' is declared but its value is never read.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\home.user.controller.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-6275147794417653.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 19:11:30 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,17): error TS2555: Expected at least 1 arguments, but got 0.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,17): error TS2555: Expected at least 1 arguments, but got 0.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 19:12:09 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,50): error TS2304: Cannot find name 'upl'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(24,50): error TS2304: Cannot find name 'upl'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 19:12:46 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(8,1): error TS6133: 'upload' is declared but its value is never read.
+src/routes/user/user.routes.ts(8,10): error TS2459: Module '"../../user/controllers/upload.user.avatar"' declares 'upload' locally, but it is not exported.
+src/routes/user/user.routes.ts(24,50): error TS2304: Cannot find name 'uploadAvatar'.
+src/routes/user/user.routes.ts(25,49): error TS2304: Cannot find name 'uploadAvatar'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(8,1): error TS6133: 'upload' is declared but its value is never read.
+src/routes/user/user.routes.ts(8,10): error TS2459: Module '"../../user/controllers/upload.user.avatar"' declares 'upload' locally, but it is not exported.
+src/routes/user/user.routes.ts(24,50): error TS2304: Cannot find name 'uploadAvatar'.
+src/routes/user/user.routes.ts(25,49): error TS2304: Cannot find name 'uploadAvatar'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 19:12:52 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(8,1): error TS6133: 'uploadPhoto' is declared but its value is never read.
+src/routes/user/user.routes.ts(24,50): error TS2304: Cannot find name 'uploadAvatar'.
+src/routes/user/user.routes.ts(25,49): error TS2304: Cannot find name 'uploadAvatar'.
+
+Error: ⨯ Unable to compile TypeScript:
+src/routes/user/user.routes.ts(8,1): error TS6133: 'uploadPhoto' is declared but its value is never read.
+src/routes/user/user.routes.ts(24,50): error TS2304: Cannot find name 'uploadAvatar'.
+src/routes/user/user.routes.ts(25,49): error TS2304: Cannot find name 'uploadAvatar'.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\routes\user\user.routes.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-5690918377651666.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:06:46 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(6,10): error TS1003: Identifier expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(6,10): error TS1003: Identifier expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:06:51 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(6,15): error TS1003: Identifier expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(6,15): error TS1003: Identifier expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:07:13 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(6,15): error TS1011: An element access expression should take an argument.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(6,15): error TS1011: An element access expression should take an argument.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:07:22 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(15,1): error TS1005: '}' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(15,1): error TS1005: '}' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:07:40 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(16,1): error TS1005: '(' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(16,1): error TS1005: '(' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:07:45 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(15,19): error TS1011: An element access expression should take an argument.
+src/user/controllers/upload.user.avatar.ts(16,1): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(15,19): error TS1011: An element access expression should take an argument.
+src/user/controllers/upload.user.avatar.ts(16,1): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:08:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(16,1): error TS1109: Expression expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(16,1): error TS1109: Expression expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-20780738533557774.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:17:26 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,44): error TS7030: Not all code paths return a value.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,44): error TS7030: Not all code paths return a value.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:17:31 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,44): error TS7030: Not all code paths return a value.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(5,44): error TS7030: Not all code paths return a value.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:31:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(6,17): error TS1005: ',' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(6,17): error TS1005: ',' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:34:24 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(7,25): error TS1002: Unterminated string literal.
+src/user/controllers/upload.user.avatar.ts(8,3): error TS1005: ']' expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(7,25): error TS1002: Unterminated string literal.
+src/user/controllers/upload.user.avatar.ts(8,3): error TS1005: ']' expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-04-13 22:34:36 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(16,33): error TS1002: Unterminated string literal.
+src/user/controllers/upload.user.avatar.ts(17,5): error TS1005: ']' expected.
+src/user/controllers/upload.user.avatar.ts(25,1): error TS1128: Declaration or statement expected.
+
+Error: ⨯ Unable to compile TypeScript:
+src/user/controllers/upload.user.avatar.ts(16,33): error TS1002: Unterminated string literal.
+src/user/controllers/upload.user.avatar.ts(17,5): error TS1005: ']' expected.
+src/user/controllers/upload.user.avatar.ts(25,1): error TS1128: Declaration or statement expected.
+
+    at Object.<anonymous> (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\src\user\controllers\upload.user.avatar.ts:1:7)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\source-map-support\source-map-support.js:568:25)
+    at Module.m._compile (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:69:33)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at require.extensions..jsx.require.extensions..js (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:114:20)
+    at require.extensions.<computed> (C:\Users\juand\AppData\Local\Temp\ts-node-dev-hook-2777726884840439.js:71:20)
+    at Object.nodeDevHook [as .ts] (C:\Users\juand\OneDrive\Escritorio\Projects\Personal-projects\To-do-List\node_modules\ts-node-dev\lib\hook.js:63:13)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)

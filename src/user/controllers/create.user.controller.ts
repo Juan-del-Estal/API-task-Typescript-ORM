@@ -12,7 +12,6 @@ export const createUserController = async (req: Request, res: Response) => {
     if (!req.body) {
       return res.status(400).json({ message: 'Empty object' });
     }
-    
     // Extract the user data from the request body
     const user = req.body;
     
