@@ -46,7 +46,7 @@ html(lang="en")
                 button(type="submit") Post
         // New post button with file input
         .new-post-button
-          form.new-photo-post(action='#', class='post-photo' method='POST', enctype="multipart/form-data")
+          form.new-photo-post(action='#', class='post-photo', method='POST', enctype="multipart/form-data")
             label.new-post-label(for="file-input") New Post
             input#file-input(type="file", name='postPhoto')
             input(type="submit", value="Send")
