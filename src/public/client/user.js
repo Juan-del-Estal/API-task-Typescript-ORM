@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  const postPhotoForm = document.querySelector('.post-photo');
+  const postPhotoForm = document.querySelector('.post-photo-form');
 
   postPhotoForm.addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent default form submission behavior
@@ -25,4 +25,9 @@ document.addEventListener('DOMContentLoaded', function() {
       // Handle error
     });
   });
+
+  // Span post input
+  function showUploadMessage() {
+    document.getElementById('upload-message').innerText = 'Photo uploaded! You can now press Send.';
+  }
 });

@@ -7,10 +7,9 @@ export const uploadProfilePhoto: RequestHandler = (req:Request, res:Response, ne
     console.error('Error uploading avatar:', err);
     return res.status(400).json({ message: 'Error uploading avatar', error: err.message });
     }
-    
     return next();
   });
-}
+};
 
 export const uploadPostPhoto: RequestHandler = (req:Request, res:Response, next:NextFunction) => {
   upload.single('postPhoto')(req, res, (err: any) => {
@@ -21,4 +20,4 @@ export const uploadPostPhoto: RequestHandler = (req:Request, res:Response, next:
     res.status(200).json({message:'Post photo uploaded successfully'})
     return next();
   });
-}
+};

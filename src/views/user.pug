@@ -1,4 +1,4 @@
-doctype html
+//doctype html
 html(lang="en")
   head
     meta(charset="UTF-8")
@@ -13,7 +13,7 @@ html(lang="en")
     main
       section.profile-section
         div.main-container
-          img(src=`/multimedia/${profilePhoto}`, class='profile-photo', alt='profile-photo-user')
+          img(src=`/multimedia/${profilePhoto}`, class='profile-photo',alt='profile-photo-user')
           h2.profile-name #{name}
           p.profile-bio Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           div.profile-stats
@@ -25,31 +25,12 @@ html(lang="en")
               span.stat-value  500
             div.stat-item
               span.stat-label Following
-              span.stat-value  230
-      section.posts-section
-        div.post-container
-          // Insert post items here
-          // Each post item could be a div with a class like .post-item
-          .post-item
-            // Placeholder for photo or video
-            // Add a button to open the post and view or add comments
-            button.open-post-button View Post
-            // Add a modal or popup for displaying the post and comments
-            .post-modal
-              // Add photo or video element here
-              // Add comments section
-              .comments-section
-                // Add comments here
-              // Add form for adding new comment
-              form.comment-form(action="#", method="post")
-                input(type="text", placeholder="Add a comment...")
-                button(type="submit") Post
-        // New post button with file input
-        .new-post-button
-          form.new-photo-post(action='#', class='post-photo', method='POST', enctype="multipart/form-data")
+              span.stat-value  230 
+          form(action="#", method="post", class="post-photo-form", enctype="multipart/form-data")
             label.new-post-label(for="file-input") New Post
-            input#file-input(type="file", name='postPhoto')
-            input(type="submit", value="Send")
+            input#file-input(type="file", name='postPhoto', onchange="showUploadMessage()")
+            input.submit-button-post(type="submit", value="Send")
+            span#upload-message
       section.friends-section
         div.friends-container
           // Insert friend items here
